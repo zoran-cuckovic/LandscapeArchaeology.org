@@ -38,7 +38,7 @@ These parameters are specified through the *Create viewpoints* module. (Note tha
 
 ![19-04-create_points.jpg]({{site.baseurl}}/figures/19-04-create_points.jpg)
 
-The elevation model used is [EU DEM](www.eea.europa.eu/data-and-maps/data/eu-dem) with approx. 30 metres horizontal resolution. The QGIS visibility analysis plugin **will only work on rasters projected in a metric coordinate system**.
+The elevation model used is [EU DEM](www.eea.europa.eu/data-and-maps/data/eu-dem) with approx. 30 metres horizontal resolution. The QGIS visibility analysis plugin [**will only work on rasters projected in a metric coordinate system**](/2020/wgs/).
 
 The result of the analysis is intriguing (figure below). We can notice several closely knit communities, but very bad connection with the most important settlement on the eastern coast of the island. Did tower builders care more about their neighbours than about the city folk? I will leave you to ponder on what this could mean…
 
