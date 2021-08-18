@@ -77,6 +77,10 @@ And finally, to select broken links we simply modify the criteria to NOT IN. We 
 
 Happy mapping!
 
+## NB
+The SQL subquery may not work with temporary layers or even shapefiles. Save the intervisibilty network in GeoPackage format to avoid the issue: 
+![19-04-geopackage.jpg]({{site.baseurl}}/figures/19-04-geopackage.jpg)
+
 ## Sources & bibliography 
 
 Ashton, N. G. and Pantazoglou, E. Th. (1991): *Siphnos: ancient towers BC*. Athens. [I used their database.]
