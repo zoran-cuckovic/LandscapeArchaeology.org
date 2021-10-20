@@ -22,3 +22,7 @@ A l’instar d’autres méthodes en télédétection et géophysique, l’analy
 En pratique, il y a un très grand nombre de facteurs supplémentaires qui nous concernent en archéologie/géophysique. En premier lieu c’est l’humidité du sol (cf. Casana 2017 ; Walker 2020). L’eau a une très forte capacité thermique, et de ce fait emmagasine aussi bien la chaleur que la fraicheur. Or, dans une matrice sédimentologie ces caractéristiques sont très fortement liés à la structure et la taille des alvéoles remplies d’eau : gravier, sable, argile etc. S’ajoute l’effet d’évaporation de l’eau qui tend à rafraichir la température en surface. Ensuite, les capacités thermiques varient selon les roches, ce qui n’est pas seulement liée à la structure moléculaire et cristalline, mais aussi la morphologie (taille, forme, etc. ; voir aussi Cassinis et al. 1984). 
 
 On rencontre couramment un malentendu concernant l’analyse thermique, du moins dans la littérature archéologique, qui provient de la confusion entre la température de surface et l’émission thermique. La méthode thermique à distance, sans contact avec le matériau, ne mesure pas directement la température, mais seulement l’émission thermique (Gaussorgues 1994). Et ça change tout !
+
+![](figures/2021-10-image1.gif)
+
+*Figure 1. La loi de Lambert : l’émission varie selon l’angle d’observation. Plus exactement, la quantité émise égale la superficie des coins colorés, pour une surface plane dA. 
