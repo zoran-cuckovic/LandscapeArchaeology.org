@@ -24,13 +24,13 @@ En pratique, il y a un très grand nombre de facteurs supplémentaires qui nous 
 
 On rencontre couramment un malentendu concernant l’analyse thermique, du moins dans la littérature archéologique, qui provient de la confusion entre la température de surface et l’émission thermique. La méthode thermique à distance, sans contact avec le matériau, ne mesure pas directement la température, mais seulement l’émission thermique (Gaussorgues 1994). Et ça change tout !
 
-![](figures/2021-10-image1.gif) ![](figures/2021-10-image2.png)
+![](/figures/2021-10-image1.gif) ![](figures/2021-10-image2.png)
 *Figure 1. La loi de Lambert : l’émission varie selon l’angle d’observation. Plus exactement, la quantité émise égale la superficie des coins colorés, pour une surface plane dA.*
 
 La radiation thermique est, ainsi, affectée par l’inclinaison de la superficie mesurée, donc par la microtopographie. Une plaque chauffante, par exemple, émet bien plus de chaleur dans le sens perpendiculaire, directement en face, que sur le côté – ce rapport entre l’inclinaison et la quantité émise est décrit par la loi de Lambert. [Il s’agit d’un principe général, en réalité la loi de Lambert ne s’applique pas de même manière à tous les matériaux ou surfaces : Gaussorgues 1994, 45.] Ainsi, pour une température homogène d’une surface irrégulière, nous obtiendrons des mesures différentes en fonction des orientations de ses facettes. Remarquons que la réflexion de la radiation solaire est affectée de même manière par l’inclinaison de la surface, elle est la plus forte dans le sens perpendiculaire de la surface. Ce principe n’est pas valable seulement pour les matériaux très réfléchissants, telle l’eau ou la glace. 
 
 
-![](figures/2021-10-image3.gif) 
+![](/figures/2021-10-image3.gif) 
 *Figure 2. Emission des ondes thermiques : noter la contribution des couches profondes (Xiao et al. 2020).*
 
 La question particulièrement intéressante concerne la profondeur depuis laquelle provient le signal thermique. L’émission thermique ne doit pas être pensée comme un échange ayant lieu à la surface d’un matériau, mais comme une contribution simultanée des émissions provenant de toutes ses strates. Ceci dit, en traversant le matériau, la plupart de ces émissions de profondeur seront immédiatement réabsorbées, seule une toute petite quantité s’échappera des couches les moins profondes. Sachant que chaque matériau à une tendance spécifique d’absorption et d’émission thermique, l’émission venant de la profondeur aura une signature thermique bien différente par rapport à celle de la surface (en principe, les longueurs d’onde bien élargies : Fig. 2). Quant à l’émission thermique du sol, il se peut que ce phénomène ne concerne qu’une dizaine de centimètres en épaisseur – je n’ai pas trouvé de discussions dans ce sens.  
