@@ -18,7 +18,7 @@ A l’instar d’autres méthodes en télédétection et géophysique, l’analy
 3.	Inertie thermique, ou la résistance de matériau au changement de température.
 4.	Diffusivité, ou la vitesse de transmission de la chaleur au sien d’un matériau. 
 
-*Adapté d’après Cool 2018, voir aussi Gaussourgues 1994.*
+                  *Adapté d’après Cool 2018, voir aussi Gaussourgues 1994.*
 
 
 En pratique, il y a un très grand nombre de facteurs supplémentaires qui nous concernent en archéologie/géophysique. En premier lieu c’est l’humidité du sol (cf. Casana 2017 ; Walker 2020). L’eau a une très forte capacité thermique, et de ce fait emmagasine aussi bien la chaleur que la fraicheur. Or, dans une matrice sédimentologie ces caractéristiques sont très fortement liés à la structure et la taille des alvéoles remplies d’eau : gravier, sable, argile etc. S’ajoute l’effet d’évaporation de l’eau qui tend à rafraichir la température en surface. Ensuite, les capacités thermiques varient selon les roches, ce qui n’est pas seulement liée à la structure moléculaire et cristalline, mais aussi la morphologie (taille, forme, etc. ; voir aussi Cassinis et al. 1984). 
