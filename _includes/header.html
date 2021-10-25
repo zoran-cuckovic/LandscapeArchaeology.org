@@ -34,7 +34,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  <--! not working  {% if page.author %}by: {{ page.author }}{% else %}{{ site.author.name }}{% endif %} -->
+		
 		  {% if include.type == "post" %}
 			  <span class="post-meta"> Posted by Zoran Čučković on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
