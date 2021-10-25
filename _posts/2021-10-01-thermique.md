@@ -8,6 +8,8 @@ tags:
 
 Ce résumé a été produit pour un projet d’acquisition thermique par drone, mené par l’équipe d’[IntelEspace](http://www.msh-clermont.fr/panel-intelespace) de la Maison des Sciences de l’Homme, Université Clermont Auvergne. Ce petit rapport interne pourrait être utile aux archéologues – et plus largement à tous ceux qu’on a fait croire que la caméra thermique mesure la température du sol. 
 
+{{ site.author.name }}
+
 ## Introduction
 
 A l’instar d’autres méthodes en télédétection et géophysique, l’analyse thermique cherche à relever le contraste entre diverses structures archéologiques et le sédiment géologique. En théorie, ce contraste dépend de deux propriétés thermodynamiques fondamentales : 
