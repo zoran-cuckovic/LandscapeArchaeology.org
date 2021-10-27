@@ -117,7 +117,7 @@ Walker, S. 2020 : Low-altitude aerial thermography for the archaeological invest
 
 Xiao, Y.,  C. Wan, A. Shahsafi, J. Salman and M. A. Kats, 2020: Depth Thermography: Noninvasive 3D Temperature Profiling Using Infrared Thermal Emission. ACS Photonics 2020, 7, 853−860
 
-<--!
+<!--
 
 ## Annexe
 
