@@ -1,10 +1,10 @@
 ---
 title: Texture shading for QGIS
 
-published : false
 ---
 
-
+![](/figures/2021-11-tex1.jpg)
+*Massanutten Mountain, Virginia, USA (data from [shadedrelief.com](http://shadedrelief.com/SampleElevationModels/#6)*
 
 Texture shading is a very sophisticated technique for terrain visualisation, proposed by Leland Brown (refs. below). His approach is based on Fourier transform applied to the entire elevation dataset, in a raster format. Let me explain. 
 
@@ -22,6 +22,9 @@ H(u,v) = −(u² + v² ) ^ alpha
 
 and with alpha < 1, we end up with a strange function that gives us a half-filtered dataset, i.e. an elevation model that combines the original height relationships and some sharpening. Which is cool, as you can see below.  
 
+
+![](/figures/2021-11-tex2.jpg)
+Volcano range of the Auvergne region, France (hillshade + texture shading + ambient occlusion; data by [craig.fr](https://www.craig.fr/fr/contenu/1196-mnt)
 
 What exactly does texture shading produce? I’m unable to relate the obtained figures to a real-world phenomenon, they reflect height relationships without direct relationship to height values. The effect procced by the algorithm can be simulated by superposing a large number of TPI models with increasing neighbourhood radius ([terrain position index](https://landscapearchaeology.org/2019/tpi/)). Therefore, texture shading can be considered as a sort of scale-free TPI.
 
