@@ -14,7 +14,7 @@ The calculus in the frequency domain is beyond my math level; suffice to say tha
 
 H(u,v) = −(u² + v²)
 
-Where (u,v) are frequency vales for a cell (x,y) in a given raster. Note that (u,v) are a combination of all frequencies at such (x,y) point, which is why they need to be calculated for the entire width (u) and height (v). If we tweak this a bit such that 
+where (u,v) are frequency vales for a cell (x,y) in a given raster. Note that (u,v) are a combination of all frequencies at such (x,y) point, which is why they need to be calculated for the entire width (u) and height (v). If we tweak this a bit such that 
 
 H(u,v) = −(u² + v² ) ^ alpha
 
