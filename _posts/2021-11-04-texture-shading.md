@@ -4,9 +4,9 @@ title: Texture shading for QGIS
 ---
 
 ![](/figures/2021-11-tex1.jpg)
-*Massanutten Mountain, Virginia, USA (data from [shadedrelief.com](http://shadedrelief.com/SampleElevationModels/#6)*
+*Massanutten Mountain, Virginia, USA (data from [shadedrelief.com](http://shadedrelief.com/SampleElevationModels/#6))*
 
-Texture shading is a very sophisticated technique for terrain visualisation, proposed by Leland Brown (refs. below). His approach is based on Fourier transform applied to the entire elevation dataset, in a raster format. Let me explain. 
+Starting with 0.9.2 version, [QGIS Terrain shading plugin](https://landscapearchaeology.org/qgis-terrain-shading/) is equipped with the exquisit terrain shading algorithm, devised for relief cartography Leland Brown (refs. below). His approach is based on Fourier transform applied to the entire elevation dataset, in a raster format. Let me explain. 
 
 The Fourier transform is a complex mathematical procedure which decomposes a series of values into repetitive, cyclical frequencies. It is used for various analyses of wave forms (music, radio etc.), for instance to extract and enhance specific frequencies from a music recording. Given the undulating, repetitive character of natural terrains, why not giving it a chance for natural terrains? 
 
@@ -24,7 +24,7 @@ and with alpha < 1, we end up with a strange function that gives us a half-filte
 
 
 ![](/figures/2021-11-tex2.jpg)
-Volcano range of the Auvergne region, France (hillshade + texture shading + ambient occlusion; data by [craig.fr](https://www.craig.fr/fr/contenu/1196-mnt)
+*Volcano range of the Auvergne region, France (hillshade + texture shading + ambient occlusion; data by [craig.fr](https://www.craig.fr/fr/contenu/1196-mnt))*
 
 What exactly does texture shading produce? I’m unable to relate the obtained figures to a real-world phenomenon, they reflect height relationships without direct relationship to height values. The effect procced by the algorithm can be simulated by superposing a large number of TPI models with increasing neighbourhood radius ([terrain position index](https://landscapearchaeology.org/2019/tpi/)). Therefore, texture shading can be considered as a sort of scale-free TPI.
 
