@@ -30,7 +30,7 @@ Finally note that my approach is less sophisticated than the original L. Brownâ€
 
 ### Resources
 
-Leland Brown 2014: Texture Shading: A New Technique for Depicting Terrain Relief, [www.mountaincartography.org](http://www.mountaincartography.org/activities/workshops/banff_canada/papers/brown.pdf)
+Leland Brown 2014. Texture Shading: A New Technique for Depicting Terrain Relief, [www.mountaincartography.org](http://www.mountaincartography.org/activities/workshops/banff_canada/papers/brown.pdf)
 
 [www.textureshading.com](http://www.textureshading.com/Home.html) by Leland Brown
 
