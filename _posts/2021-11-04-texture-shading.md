@@ -12,7 +12,7 @@ The Fourier transform is a complex mathematical procedure which decomposes a ser
 
 In theory, this can be used to extract landforms of specific sizes and to eliminate noise in the dataset. Banded, repetitive noise patterns that arise with radar or lidar datasets are an ideal candidate. That being said, texture shading does not rely on the extraction of frequencies, which would be highly complex. Its main goal is to profit from the scale-free character of the Fourier transform – which takes into the account the entire DEM, at once – to alleviate the well-known problem of common GIS filtering techniques. The vast majority of these is based on a moving window which jumps from cell to cell and takes into the account only their immediate neighbourhood. 
 
-The calculus in the frequency domain is beyond my math level; suffice to say that certain classic image filters can be reconstructed in the frequency domain and calculated far more efficiently than through standard window-based filters. One of those is the Laplacian or sharpening filter: 
+The calculus in the frequency domain is beyond my math level; suffice to say that certain classic image filters can be reconstructed in the frequency domain and calculated far more efficiently than through standard window-based filters. One of those is Laplacian or sharpening filter: 
 
 H(u,v) = −(u² + v²)
 
