@@ -25,9 +25,9 @@ and with alpha < 1, we end up with a strange function that gives us a half-filte
 ![](/figures/2021-11-tex2.jpg)
 *Volcano range of the Auvergne region, France (hillshade + texture shading + ambient occlusion; data by [craig.fr](https://www.craig.fr/fr/contenu/1196-mnt))*
 
-What exactly does texture shading produce? The figures reflect height relationships, but they do not relate to a specific real-world phenomenon, such as height diffrences. I can't see the use of the otput for other purposes than visualisation. Note that the visual effect of texture shading can be simulated by superposing a large number of TPI models with increasing neighbourhood radius ([terrain position index](https://landscapearchaeology.org/2019/tpi/)). Therefore, texture shading can be considered as a sort of scale-free TPI.
+What exactly does texture shading produce? While obtained figures reflect height relationships, they do not relate to a specific real-world phenomenon, such as actual height diffrences. Note that the visual effect of texture shading can be simulated by combining a large number of TPI models with increasing neighbourhood radius ([Terrain Position Index](https://landscapearchaeology.org/2019/tpi/)). Therefore, texture shading can be considered as a sort of scalefree TPI.
 
-Finally note that my approach is less sophisticated than the original L. Brown’s formula. For instance, my solution does not handle well raster borders, and the math is significantly simplified. But it fits into some 30 lines of code, which is so cool for maintenance. The images are nevertheless stunning! 
+As a final note, the argorithmic solution of the QGIS texture shading module is in many ways less sophisticated than the original formula. For instance, my solution does not handle well raster borders, and the math is significantly simplified. But it fits into some 30 lines of code, which is so cool for maintenance. The images are nevertheless stunning! 
 
 ### Resources
 
