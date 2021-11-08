@@ -2,6 +2,8 @@
 layout: post
 title: Texture shading for QGIS
 published: true
+tags:
+  - QGIS Terrain Shading
 ---
 Starting with 0.9.2 version, [QGIS Terrain shading plugin](https://landscapearchaeology.org/qgis-terrain-shading/) is equipped with the exquisit terrain shading algorithm, devised for terrain cartography by Leland Brown (refs. below). The algorithm can be described as a scaleless sharpening filter which permits to visualise height differences within a region without producing a flattened impression (the problem of the majority of other existing solutions). This magic is made possible by Fourier transform, a complex mathematical procedure which decomposes a series of values into repetitive, cyclical frequencies. This procedure is used for wave form analysis, for istance to extract and enhance specific frequencies from a music recording. Given the undulating, repetitive character of natural terrains, why not giving it a chance for natural terrains? 
 
