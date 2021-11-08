@@ -7,7 +7,7 @@ tags:
 ---
 
 
-Topographic position index (TPI) is a method of terrain classification where the altitude of each data point is evaluated against its neighbourhood. If a point is higher than its surroundings, the index will be positive, as for example on ridges and hilltops, while the figure will be negative for sunken features such as valleys. Note that the TPI is *the same thing as the (simple) local relief model* or (S)LRM (depending on what people define as “simple”). The RVT software, widely used for terrain visualisation, is using the SLRM term (Kokalj et al. _______. 
+Topographic position index (TPI) is a method of terrain classification where the altitude of each data point is evaluated against its neighbourhood. If a point is higher than its surroundings, the index will be positive, as for example on ridges and hilltops, while the figure will be negative for sunken features such as valleys. Note that the TPI is the same thing as the (simple) local relief model or (S)LRM (depending on what people define as “simple”). The RVT software, widely used for terrain visualisation, is using the SLRM term (Kokalj et al. _______. 
 
 ![tpi](/figures/TPI.png)
 *Terrain position index (concavities are in blue and convexities in red). These are animal tracks and some human paths on a Lidar derived DEM.* 
@@ -22,32 +22,34 @@ The size of the examined neighbourhood matters: what may globally be a large val
 ![TPI_diagram.png](/figures/TPI_diagram.png)
 *Topographic position index depends on neighbourhood size (Salinas-Melgoza et al. 2018, Fig. 2)* 
 
-Now, a raster filter can do more than just gather values, it can also assign them specific weights. This is particularly useful to correct the common distance issue of the square moving window. Corner cells are situated farther away from the central cell than those on orthogonal directions, which means that for a same slope gradient they will signal higher height difference. We can, then correct their values for such distance difference (knowing that square diagonal is sq. root of 2, etc.). 
+Now, a raster filter can do more than just gather values, it can also assign them specific weights. This is particularly useful to correct the common distance issue of the square moving window. Corner cells are situated farther away from the central cell than those on orthogonal directions, which means that for the same slope gradient they will signal higher height difference. We can, then correct their values for such distance difference (knowing that square diagonal is sq. root of 2, etc.). 
 
 ![2021-12-filter_standard.jpg]({{site.baseurl}}/figures/2021-12-filter_standard.jpg)
 *Standard kernel with distance correction*
 
 Following this principle, we can go further and choose which parts of the neighbourhood would be more/less interesting for our purpose. QGIS Terrain Shading plugin has an option to use the distance from the central cell as weight, thus giving more importance to the window fringe. For instance, for the value *v* of the second neighbour the weighted score will be `v*2`, for the third `v*3`, and so on. 
 
-A common problem to TPI / LRM methods is the tendency to produce a blurred output. This is indeed expected since the average filter is also known as smoothing filter in the domain of image analysis. In order to overcome the problem, the QGIS Terrain Shading plugin has an option to use the inverse distance weighted filter, which puts more stress to the local cell neighbourhood. It will thus apply v*1/2, v*1/3 etc, as we move away from the central point.
+A common problem to TPI / LRM methods is the tendency to produce a blurred output. This is indeed expected since the average filter is also known as smoothing filter in the domain of image analysis. In order to overcome the problem, the QGIS Terrain Shading plugin has an option to use the inverse distance weighted filter, which puts more stress to the local cell neighbourhood. It will thus apply `v*1/2`, `v*1/3` and so on as we move away from the central point.
 
 The plugin also features a mode where the height differences are used as the weights (which amounts to multiply each height difference by itself). This is a very useful enhancement method, for instance when analysing Lidar derived models.  
 
 We can go even further and mess completely with the kernel by introducing asymmetric weights. Observe the kernel below: the balance point of weights is not in the central cell, but rather to the south-east. This will give more importance to the terrain at this side, rendering slopes more vividly than on north-east. Why would one do that? As we can see below, the result permits to obtain a soft hillshading effect, which can be tweaked with various parameters for window size, shape and weights. In QGIS Terrain Shading module we can specify distance and direction of the balance point. 
 
 ![2021-12-filter_excentric.jpg]({{site.baseurl}}/figures/2021-12-filter_excentric.jpg)
-*Exccentric filter: the balance point of weights is southeast of the central cell)*
+*Exccentric filter: the balance point of weights is southeast of the central cell*
 
+<iframe frameborder="0" class="juxtapose" width="100%" height="850" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59877958-40a1-11ec-abb7-b9a7ff2ee17c"></iframe>
 
 *These braided channels are difficult to visualise using standard hillshade technique, eccentric TPI may be a better choice  (Jackson Hole, Wyoming, USA; data from [shadedrelief.com]( http://shadedrelief.com/SampleElevationModels/))*
 
-Jackson Hole _____
-Ressources 
-RVT : 
-## Bibliography
+
+
+## Ressources
 Kernel processing on [Wikipedia ](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
 A. Weiss (2001) : [Topographic Position and Landforms Analysis]( http://www.jennessent.com/downloads/tpi-poster-tnc_18x22.pdf), Poster Presentation, ESRI Users Conference, San Diego, CA
+
+Kokalj, Ž., Somrak, M. (2019). Why Not a Single Image? Combining Visualizations to Facilitate Fieldwork and On-Screen Mapping. [Remote Sensing 11(7): 747](https://www.mdpi.com/2072-4292/11/7/747).
 
 J. Jeness (2006): [Topographic Position Index (TPI) v. 1.2](http://www.jennessent.com/downloads/tpi_documentation_online.pdf)
 
