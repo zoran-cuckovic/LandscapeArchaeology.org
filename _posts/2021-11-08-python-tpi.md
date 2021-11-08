@@ -1,9 +1,9 @@
 ---
 layout: post
 published: false
-title: Terrain position index (TPI): a Python implementation 
+title: 'Terrain position index (TPI): a Python implementation '
 tags:
-  - QGIS 
+  - QGIS
   - code
 ---
 
@@ -150,6 +150,6 @@ However, I find more useful (and intuitive) to hard-code window definitions. Thi
                       0.5, 1, 0.5, 0, 0
                       1, 0.5, 0, 0, 0 
               
-Danger in this approach is in the assumption that **the central data point is in the geometric centre of the kernel window**. For this to be true, dimensions of the window should be in odd numbers. For instance, in 3x3 window, the central pixel is at (1,1) position. In a 4x4 window, the centre falls between cells, which doesn’t work! Therefore, be sure to count your pixels. 
+Danger in this approach lies in the assumption that **the central data point is in the geometric centre of the kernel window**. For this to be true, dimensions of the window should be in odd numbers. For instance, in 3x3 window, the central pixel is at (1,1) position. In a 4x4 window, the centre falls between cells, which doesn’t work! Therefore, be sure to count your pixels. 
 
 Larger windows may become unwildely; in that case you can always use the on-the-fly method, as above.
