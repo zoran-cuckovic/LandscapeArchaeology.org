@@ -17,7 +17,7 @@ The TPI method can easily be customised and experimented with in order to obtain
 
 In what follows, I will only provide the basic architecture for a TPI filter, based on the [sliding window routine developed for numpy](https://landscapearchaeology.org/2018/numpy-loops/). In essence, TPI is just a kernel routine, which gathers information around each data point. At the same time it applies a weight factor, for instance to correct for the distance difference between diagonal pixels (touching by a corner) and orthogonal (touching by a side; below).
 
-![2021-12-filter_standard.jpg]({{site.baseurl}}/figures/2021-12-filter_standard.jpg)
+![2021-12-filter_standard.jpg](/figures/2021-12-filter_standard.jpg)
 *Standard TPI kernel (moving window) with distance correction*
 
 Below is a script that can be used in QGIS (open the Python console and just copy-paste the code) or run in pure Python. 
