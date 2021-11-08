@@ -144,6 +144,6 @@ output = calculate_something(temp_sum)
 Perhaps we could do better, but the advantage of this approach is that we can adapt it to any imaginable shape of the moving window - because we conserve the loop over window cells. We are also working on views, as opposed to hard copies of the data, which is what Numpy likes a lot.  
 
 ## Related posts
-You can find an implementation of sliding window logic in a script for GIS raster analysis [(Topographic position index)](https://landscapearchaeology.org/2019/tpi/).  
+You can find an implementation of sliding window logic in a script for GIS raster analysis [(Topographic position index)](https://landscapearchaeology.org/2021/python-tpi/).  
   
 Any suggestions are welcome!
