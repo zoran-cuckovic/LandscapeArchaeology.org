@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Terrain position index (TPI): a Python implementation '
 tags:
   - QGIS
