@@ -19,7 +19,7 @@ Ambient occlusion is very promising for terrain visualisation, as well; a couple
 
 In the image above, waterline approximates the horizontal plane for a sea level location (the photographer’s position). On the open sea, his/her sky view would be 100%, but here an island is blocking a small portion of the sky. The effect is inversely proportional to the distance from the island (the closer we get, the less light we receive). Terrain openness value, however, will never surpass 50% on the open sea, as only half of the surrounding sphere will remain unblocked. Openness values above 50% are nevertheless possible for ridgetop positions, such as the one occupied by the lighthouse in the figure above. Provided that we specify short sphere radius, say 100 meters, the light-blocking sea surface will appear significantly below the lighthouse. 
 
-Openness and sky-view factor are now available in the [Terrain shading plugin for QGIS](https://zoran-cuckovic.github.io/QGIS-terrain-shading/). As in other common approaches, these metrics are estimated with a sample of lines of sight, projected from each terrain element (a pixel in this case). As of writing, 8 lines are used. As a side-note, this plugin already features a shading algorithm inspired by the principle of ambient occlusion; the [shadow depth method](https://landscapearchaeology.org/2019/qgis-shadows/) calculates the depth-dependant shadow translucency. 
+Openness and sky-view factor are now available in the [Terrain shading plugin for QGIS](/qgis-terrain-shading/). As in other common approaches, these metrics are estimated with a sample of lines of sight, projected from each terrain element (a pixel in this case). As of writing, 8 lines are used. As a side-note, this plugin already features a shading algorithm inspired by the principle of ambient occlusion; the [shadow depth method](https://landscapearchaeology.org/2019/qgis-shadows/) calculates the depth-dependant shadow translucency. 
 
 ![Banks penninsula]({{site.baseurl}}/figures/20-02-banks_simple.jpg)
 
@@ -51,7 +51,7 @@ To obtain the best from both worlds, we can combine the usual sky-view factor wi
 Happy mapping!
 
 ### Software
-QGIS Terrain shading plugin, see at [www.zoran-cuckovic.from.hr/QGIS-terrain-shading/](https://zoran-cuckovic.github.io/QGIS-terrain-shading/)
+QGIS Terrain shading plugin, see at [www.zoran-cuckovic.from.hr/QGIS-terrain-shading/](/qgis-terrain-shading/)
 
 ### Bibliography
 
