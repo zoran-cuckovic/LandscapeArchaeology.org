@@ -51,7 +51,7 @@ To obtain the best from both worlds, we can combine the usual sky-view factor wi
 Happy mapping!
 
 ### Software
-QGIS Terrain shading plugin, see at [www.zoran-cuckovic.from.hr/QGIS-terrain-shading/](/qgis-terrain-shading/)
+QGIS Terrain shading plugin, see at [LandscapeArchaeology/qgis-terrain-shading/](/qgis-terrain-shading/)
 
 ### Bibliography
 
