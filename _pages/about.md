@@ -27,16 +27,18 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41HYSW)
 
 ## Contact
-
+<div>
 <form id="contact-form"  action="https://formspree.io/cuckovic.zoran@gmail.com" method="POST">
 	 Your name <input type="text" name="name">
 	<p>
 	Your email <input type="email" name="_replyto">
 	<p>
-	Message	<textarea rows="10" name="body"></textarea>
+	Message	<textarea rows="10" name="body">
+      </textarea>
 	<p>
     <input type="submit" value="Send">
 </form>	
+</div>
 <!-- 
 <form id="contactform" action="https://formspree.io/cuckovic.zoran@gmail.com" method="POST">
 	<input type="text" name="name" placeholder="Your name ">
@@ -48,7 +50,7 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 	<input type="hidden" name="_next" value="//mywebsite.com/thanks.html" />
 </form>
 https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870 -->
-</form>
+
 
 ## My GIS tweets 
 
