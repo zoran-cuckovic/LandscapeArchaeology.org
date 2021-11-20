@@ -8,9 +8,6 @@ Hello!
 
 LandscapeArchaeology.org brings together my work on GIS analysis and archaeology, especially in relation to my QGIS projects (visibility and terrain analysis). You can check my bio at [zoran-cuckovic.from.hr](http://zoran-cuckovic.from.hr).
 
-
-On Twitter, I'm [@GISwhispers](https://twitter.com/giswhisp).
-
 Happy mapping,<br>
 Zoran Čučković.
 
@@ -51,3 +48,8 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 	<input type="hidden" name="_next" value="//mywebsite.com/thanks.html" />
 </form>
 https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870 -->
+
+## My GIS tweets 
+
+<a class="twitter-timeline" data-height=800 href="https://twitter.com/giswhisp?ref_src=twsrc%5Etfw">Tweets by GIS Whispers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
