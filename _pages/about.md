@@ -26,6 +26,10 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41HYSW)
 
+## My GIS tweets 
+
+<a class="twitter-timeline" data-height=800 href="https://twitter.com/giswhisp?ref_src=twsrc%5Etfw">Tweets by GIS Whispers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Contact
 <div>
 <form id="contact-form"  action="https://formspree.io/cuckovic.zoran@gmail.com" method="POST">
@@ -36,9 +40,8 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 	Message	<textarea rows="10" name="body">
       </textarea>
 	<p>
-      <input type="submit" value="Send"></input>
-</form>	
-</div>
+      <input type="submit" value="Send">
+
 <!-- 
 <form id="contactform" action="https://formspree.io/cuckovic.zoran@gmail.com" method="POST">
 	<input type="text" name="name" placeholder="Your name ">
@@ -51,8 +54,4 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 </form>
 https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870 -->
 
-
-## My GIS tweets 
-
-<a class="twitter-timeline" data-height=800 href="https://twitter.com/giswhisp?ref_src=twsrc%5Etfw">Tweets by GIS Whispers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
