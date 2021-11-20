@@ -48,6 +48,7 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 	<input type="hidden" name="_next" value="//mywebsite.com/thanks.html" />
 </form>
 https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870 -->
+</form>
 
 ## My GIS tweets 
 
