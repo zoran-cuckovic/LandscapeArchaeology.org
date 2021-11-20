@@ -11,7 +11,7 @@ LandscapeArchaeology.org brings together my work on GIS analysis and archaeology
 
 On Twitter, I'm [@GISwhispers](https://twitter.com/giswhisp).
 
-Happy mapping,
+Happy mapping,<br>
 Zoran Čučković, 
 
 ## Publishing & citation
