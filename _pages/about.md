@@ -6,11 +6,17 @@ published: true
 ---
 Hello!
 
-Author/editor of LandscapeArchaeology.org goes by the name of Zoran Čučković. The site will bring together my previous work on geographical analysis and archaeology. See at [zoran-cuckovic.from.hr](http://zoran-cuckovic.from.hr). I’m currently a PhD candidate in archaeology at the University of Bourgogne Franche-Comté, France. Previously I worked as archaeologist in Croatia and studied in Croatia and Slovenia.
+LandscapeArchaeology.org brings together my work on GIS analysis and archaeology, especially in relation to my QGIS projects (visibility and terrain analysis). You can check my bio at [zoran-cuckovic.from.hr](http://zoran-cuckovic.from.hr).
+
 
 On Twitter, I'm [@GISwhispers](https://twitter.com/giswhisp).
 
-LandscapeArchaeology.org is published in France and is attributed ISSN 2649-8774.
+Happy mapping,
+Zoran Čučković, 
+
+## Publishing & citation
+
+LandscapeArchaeology.org is published in France and is attributed ISSN 2649-8774. It is also archived at [GitHub](https://github.com/zoran-cuckovic/LandscapeArchaeology.org), which should make it  safe enough for scientific reference. 
 
 ## Cookie policy
 
