@@ -36,7 +36,7 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 	Message	<textarea rows="10" name="body">
       </textarea>
 	<p>
-    <input type="submit" value="Send">
+      <input type="submit" value="Send"></input>
 </form>	
 </div>
 <!-- 
