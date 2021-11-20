@@ -6,6 +6,7 @@ subtitle: 'Or, how to produce beauty in QGIS without 3D software.'
 date: '2019-03-10'
 tags:
   - qgis
+  - QGIS Terrain Shading
 ---
 
 ![Algo-window.JPG]({{site.baseurl}}/figures/Algo-window.JPG)
