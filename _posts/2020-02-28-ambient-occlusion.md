@@ -4,7 +4,7 @@ published: true
 title: Ambient occlusion and sky-view factor for QGIS
 tags:
   - qgis
-  - qgis relief shading
+  - QGIS Terrain Shading
 ---
 Ambient occlusion is a concept developed in 3D modelling and visualisation which is used to evaluate the exposition to the ambient light of each model element. The idea is to simulate the diffuse, scattered light that bounces off various surfaces. Such light may not have an identifiable source, as for instance under overcast sky. Ambient occlusion models produce very realistic renderings which capture the dim light in tight spaces and corners (figure below).
 
