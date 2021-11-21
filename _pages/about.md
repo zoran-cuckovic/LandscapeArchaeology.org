@@ -26,9 +26,9 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41HYSW)
 
-## Recent tweets 
+## My GIS tweets 
 
-<a class="twitter-timeline" data-height=800 href="https://twitter.com/giswhisp?ref_src=twsrc%5Etfw">Tweets by GIS Whispers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height=800 data width=300 href="https://twitter.com/giswhisp?ref_src=twsrc%5Etfw">Tweets by GIS Whispers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contact
 <div>
