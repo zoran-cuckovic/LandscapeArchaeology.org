@@ -26,7 +26,7 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41HYSW)
 
-## My GIS tweets 
+## Recent tweets 
 
 <a class="twitter-timeline" data-height=800 href="https://twitter.com/giswhisp?ref_src=twsrc%5Etfw">Tweets by GIS Whispers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -53,5 +53,3 @@ Like free, open source software ? Me too! Buy me a coffee, so that I may support
 	<input type="hidden" name="_next" value="//mywebsite.com/thanks.html" />
 </form>
 https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870 -->
-
-
