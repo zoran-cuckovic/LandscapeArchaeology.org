@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: QGIS Terrain Shading 
+title: QGIS Terrain Shading
 permalink: /qgis-terrain-shading/
 ---
 
@@ -97,7 +97,7 @@ This algorithm is based on wawelength analysis (Fourrier transform) where terrai
 
 **Remarks** the elevation model should not contain "NoData", i.e. empty data. These will introduce large stripes across the output raster. 
 
-See also at [www.textureshading.com](http://www.textureshading.com).
+See also at [LandscapeArchaeology.org/2021/texture-shading/](https://landscapearchaeology.org/2021/texture-shading/).
 
 
 ## More information
