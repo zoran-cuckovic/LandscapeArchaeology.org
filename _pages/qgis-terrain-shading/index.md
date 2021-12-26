@@ -5,9 +5,9 @@ title: QGIS Terrain Shading
 permalink: /qgis-terrain-shading/
 ---
 
-**Current stable version: 0.9** (February 2021)
+**Current stable version: 0.9.3** (November 2021)
 
-**Current experimental version: 0.9.1** (March 2021)
+**Current experimental version: 0.9.4** (January 2022)
 
 **Supported QGIS version: 3.x**
 
