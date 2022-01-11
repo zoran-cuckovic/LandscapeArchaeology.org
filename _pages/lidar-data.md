@@ -115,6 +115,7 @@ NB. DEM data format is a mess; there is some missing data at the end of each fil
 [b5m.gipuzkoa.eus](https://b5m.gipuzkoa.eus/url5000/en/G_22485/PUBLI&consulta=HAZLIDAR) : point cloud, DTM/DSM 1m.
 
 # Sweden
+Geoportal: [https://geotorget.lantmateriet.se/bestallning/produkter/skogliglas](https://geotorget.lantmateriet.se/bestallning/produkter/skogliglas) and ftp download
 [https://www.lantmateriet.se/en/maps-and-geographic-information/open-geodata/](https://www.lantmateriet.se/en/maps-and-geographic-information/open-geodata/): point cloud (1-2 pts/m²).
 
 # Switzerland
