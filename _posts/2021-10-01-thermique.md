@@ -6,7 +6,7 @@ tags:
   - télédétection
 ---
 
-Ce résumé a été produit pour un projet d’acquisition thermique par drone, mené par l’équipe d’[IntelEspace](http://www.msh-clermont.fr/panel-intelespace) de la Maison des Sciences de l’Homme, Université Clermont Auvergne. Ce petit rapport interne pourrait être utile aux archéologues – et plus largement à tous ceux qu’on a fait croire que la caméra thermique mesure la température du sol. 
+Ce résumé a été produit pour un projet d’acquisition thermique par drone, mené par l’équipe d’[IntelEspace](http://www.msh-clermont.fr/panel-intelespace) de la Maison des Sciences de l’Homme, Université Clermont Auvergne. Ce petit rapport interne pourrait être utile aux archéologues,  et plus largement à tous ceux qui cherchent une brève introduction au sujet. 
 
 ## Introduction
 
@@ -16,7 +16,7 @@ A l’instar d’autres méthodes en télédétection et géophysique, l’analy
 
 … ainsi que de deux propriétés dérivées:
 3.	Inertie thermique, ou la résistance de matériau au changement de température.
-4.	Diffusivité, ou la vitesse de transmission de la chaleur au sien d’un matériau. 
+4.	Diffusivité, ou la vitesse de transmission de la chaleur au sein d’un matériau. 
 
 *Adapté d’après Cool 2018, voir aussi Gaussourgues 1994.*
 
@@ -28,7 +28,7 @@ On rencontre couramment un malentendu concernant l’analyse thermique, du moins
 ![](/figures/2021-10-image1.gif) ![](/figures/2021-10-image2.png)
 *Figure 1. La loi de Lambert : l’émission varie selon l’angle d’observation. Plus exactement, la quantité émise égale la superficie des coins colorés, pour une surface plane dA.*
 
-La radiation thermique est, ainsi, affectée par l’inclinaison de la surface mesurée, donc par la microtopographie. Une plaque chauffante, par exemple, émet bien plus de la chaleur dans le sens perpendiculaire, directement en face, que sur le côté – ce rapport entre l’inclinaison et la quantité émise est décrit par la loi de Lambert. [Il s’agit d’un principe général, en réalité la loi de Lambert ne s’applique pas de même manière à tous les matériaux ou surfaces : Gaussorgues 1994, 45.] Ainsi, pour une température homogène d’une surface irrégulière, nous obtiendrons des mesures différentes en fonction des orientations de ses facettes. Remarquons que la réflexion de la radiation solaire est affectée de même manière par l’inclinaison de la surface, elle est la plus forte dans le sens perpendiculaire de la surface. Ce principe n’est pas valable seulement pour les matériaux très réfléchissants, telle l’eau ou la glace. 
+La radiation thermique est, ainsi, affectée par l’inclinaison de la surface mesurée, donc par la microtopographie. Une plaque chauffante, par exemple, émet bien plus de la chaleur dans le sens perpendiculaire, directement en face, que sur le côté – ce rapport entre l’inclinaison et la quantité émise est décrit par la loi de Lambert. [Il s’agit d’un principe général, en réalité la loi de Lambert ne s’applique pas de même manière à tous les matériaux ou surfaces : Gaussorgues 1994, 45.] Ainsi, pour une température homogène d’une surface irrégulière, nous obtiendrons des mesures différentes en fonction des orientations de ses facettes. Remarquons que la réflexion de la radiation solaire est affectée de même manière par l’inclinaison de la surface, elle est la plus forte dans le sens perpendiculaire de la surface. Remarquons cependant, que ce principe n’est pas valable pour les matériaux très réfléchissants, telle l’eau ou la glace. 
 
 
 ![](/figures/2021-10-image3.gif) 
