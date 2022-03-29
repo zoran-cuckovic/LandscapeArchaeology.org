@@ -114,6 +114,9 @@ NB. DEM data format is a mess; there is some missing data at the end of each fil
 
 [b5m.gipuzkoa.eus](https://b5m.gipuzkoa.eus/url5000/en/G_22485/PUBLI&consulta=HAZLIDAR) : point cloud, DTM/DSM 1m.
 
+### Catalonia 
+[https://www.icgc.cat/en/Downloads/Elevations/Lidar-data](https://www.icgc.cat/en/Downloads/Elevations/Lidar-data) : point cloud (0.5 pt/m²)
+
 # Sweden
 Geoportal: [https://geotorget.lantmateriet.se/bestallning/produkter/skogliglas](https://geotorget.lantmateriet.se/bestallning/produkter/skogliglas) and ftp download
 [https://www.lantmateriet.se/en/maps-and-geographic-information/open-geodata/](https://www.lantmateriet.se/en/maps-and-geographic-information/open-geodata/): point cloud (1-2 pts/m²).
@@ -148,7 +151,7 @@ https://www.usna.edu/Users/oceano/pguth/md_help/html/gis_country_sites.htm
 https://arheologijaslovenija.blogspot.com/p/blog-page_81.html
 http://www.equipex-geosud.fr/web/guest/donnees-lidar-satellitaire
 
-Catalonia : http://www.icc.cat/vissir3/
+
 La Rioja https://www.iderioja.larioja.org/geovisor/index_fs.php?
 
 Switzerland : Zurich, Solothurn, Schaffhaussen
