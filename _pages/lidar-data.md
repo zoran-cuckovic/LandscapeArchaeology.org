@@ -120,7 +120,11 @@ NB. DEM data format is a mess; there is some missing data at the end of each fil
 
 ### La Rioja
 
-[https://www.iderioja.larioja.org/cartografia/index.php?map=RIOJA_TEMATICA&&&lang=es](https://www.iderioja.larioja.org/cartografia/index.php?map=RIOJA_TEMATICA&&&lang=es) : DEM 1m, point cloud (2 pt/m²).
+[https://www.iderioja.larioja.org/cartografia/index.php?map=RIOJA_TEMATICA&&&lang=es](https://www.iderioja.larioja.org/cartografia/index.php?map=RIOJA_TEMATICA&&&lang=es): DEM 1m, point cloud (2 pt/m²).
+
+### Galicia
+
+[http://mapas.xunta.gal/visores/descargas/](http://mapas.xunta.gal/visores/descargas/): point cloud.
 
 # Sweden
 Geoportal: [https://geotorget.lantmateriet.se/bestallning/produkter/skogliglas](https://geotorget.lantmateriet.se/bestallning/produkter/skogliglas) and ftp download
