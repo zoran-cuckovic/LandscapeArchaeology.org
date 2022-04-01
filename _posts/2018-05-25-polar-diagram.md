@@ -1,7 +1,7 @@
 ---
 author: Zoran
 categories:
-- Spatial analysis &amp; GIS
+- Spatial analysis, GIS
 date: 2018-05-25 16:57:53
 guid: https://landscapearchaeology.org/?p=246
 id: 246
