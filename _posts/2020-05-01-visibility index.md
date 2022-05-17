@@ -11,10 +11,10 @@ Welcome visibility index algorithm, a.k.a. total viewshed, now available in [QGI
 ![20-05-01-window.jpg]({{site.baseurl}}/figures/20-05-01-window.jpg)
 
 ![20-05-01-visibility-index.jpg]({{site.baseurl}}/figures/20-05-01-visibility-index.jpg)
-*Visibility index for two river valleys: note high exposition of valley bottoms.*
+*Visibility index for two river valleys: note high exposure of valley bottoms.*
 
 
-Visibility index is calculated as the ratio of positive visual connections: 1.0 or 100% implies that a point can be seen from all of its neighbours. In fact, we have two options when mapping these positive views. The first one is to assign the value to seen locations, which can be termed as incoming views. This is equivalent to cumulative viewshed ([see my previous post]({{site.baseurl}}/2020/viewshed-tutorial/)). The second option is to map positive views to observer locations, which will register the size of observed surface. These are, then, outgoing views. View direction parameter can therefore be used to distinguish between visual exposition of terrain features and the visual coverage from each terrain location. 
+Visibility index is calculated as the ratio of positive visual connections: 1.0 or 100% implies that a point can be seen from all of its neighbours. In fact, we have two options when mapping these positive views. The first one is to assign the value to seen locations, which can be termed as incoming views. This is equivalent to cumulative viewshed ([see my previous post]({{site.baseurl}}/2020/viewshed-tutorial/)). The second option is to map positive views to observer locations, which will register the size of observed surface. These are, then, outgoing views. View direction parameter can therefore be used to distinguish between visual exposure of terrain features and the visual coverage from each terrain location. 
 
 ![20-05-01-direction.png]({{site.baseurl}}/figures/20-05-01-direction.png)
 *Visibility is not reciprocal: we can choose to model either the observer’s perspective, or the observed one's perspective (painting by [www.nadiatsakova.com](www.nadiatsakova.com)).*
