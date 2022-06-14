@@ -1,10 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Bronze Age reticular territories: pathways and barrows in Jutland (Denmark)'
 ---
 
-Poster to be presented at the conference "Modèles d’occupation du sol à l’âge du Bronze en Europe", Metz, June 22, 2022. __Work in progress ...__
+Poster to be presented at the conference "Modèles d’occupation du sol à l’âge du Bronze en Europe", Metz, June 22, 2022. 
+
+__Work in progress ...__
 
 ![poster-work-in-progress](/figures/2022-06-poster-denmark.jpg)
 
