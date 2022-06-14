@@ -5,6 +5,7 @@ title: 'Bronze Age reticular territories: pathways and barrows in Jutland (Denma
 ---
 
 Poster to be presented at the conference "Modèles d’occupation du sol à l’âge du Bronze en Europe", Metz, June 22, 2022. __Work in progress ...__
+
 ![poster-work-in-progress](/figures/2022-06-poster-denmark.jpg)
 
 
@@ -47,3 +48,37 @@ Figure ___ Many a medieval ruler lives on the move. Compare winter and summer st
 
 Conclusion
 This poster presents, to the author’s knowledge, a unique attempt to computationally model large-scale mobility patterns over the Jutish peninsula in the Bronze Age. However, the exercise does not aim to reconstruct specific pathways nor to pinpoint presumed movement channels. Mobility is more than a set of occasional activities; it is rather a foundation for a wide range of spatial practices, from everyday subsistence tasks, to trade, warfare and social contact at distance. This poster is introducing the concept of mobility space, populated with active, mobile human agents. Maps and mapping have done much disservice to archaeological approaches to past geographies, shaping our understating of the past through the discourse of bounded areas, sizes and distances. The map presented here should disclose the immense complexity that underlies what would otherwise be left as cartographic blanks. There is no such thing as an empty space, but rather an intricate web of effective or potential connections, reaching to every corner of the inhabited land and still awaiting to be tackled for the Bronze Age.  
+
+## Bibliography
+Bonnemaison, J. (1986). *Les fondements d’une identité : Territoire, histoire et société dans l’archipel de Vanuatu (Mélanésie). Vol 1. L’arbre et la pirogue.* Paris : OROSTOM. 
+
+Calvo, M., D. Javaloyas, D. Albero, J. Garcia-Rosselló, and V. Guerrero (2011). The Ways People Move: Mobility and Seascapes in the Balearic Islands during the Late Bronze Age (c. 1400–850/800 BC). *World Archaeology* 43 (3): 345–363. doi:10.1080/00438243.2011.605840.
+
+Čučković., Z. (2016). Advanced viewshed analysis: a Quantum GIS plug-in for the analysis of visual landscapes. *The Journal of Open Source Software* 1 (4). doi:10.21105/joss.00032. 
+
+Čučković, Z. (2017) Claiming the sea: Bronze Age fortified sites of the north-eastern Adriatic Sea (Cres and Lošinj islands, Croatia). *World Archaeology* 49(4): 526-546, doi:10.1080/00438243.2017.1341331.
+
+Danish ministry of culture (2021). Fund og Fortidsminder. Data available at [https://www.kulturarv.dk/fundogfortidsminder/](https://www.kulturarv.dk/fundogfortidsminder/)).
+
+Fovet, E. Zakšek, K. (2014). Path Network Modelling and network of agglomerated settlements: a case study in Languedoc (South eastern France). In S. Polla and P. Verhagen (eds.) *Computational Approaches to the Study of Movement and  Archaeology. Theory, Practice, and Interpretation of Factors and Effects of Long Term Landscape Formation and Transformation*: 43-72. Berlin: de Gruyter. 
+
+Gillespie, J. (2017) Was King John of England Bipolar? A Medical History Using Mathematical Modelling. Phd Thesis, University of St Andrews. https://research-repository.st-andrews.ac.uk/handle/10023/12195. 
+
+Holst, M. K., Rasmussen, M., Kristiansen, K., Bech, J.-H. (2013). Bronze Age ‘Herostrats’: Ritual, Political, and Domestic Economies in Early Bronze Age Denmark. *Proceedings of the Prehistoric Society* 79: pp. 1–32.
+
+Holst, M.K. & Rasmussen, M. (2013). Herder Communities: Longhouses, Cattle and Landscape Organization in the Nordic Early and Middle Bronze Age. In S. Bergerbrant & S. Sabatini (eds): *Counterpoint: Essays in Archaeology and Heritage Studies in Honour of Professor Kristian Kristiansen*. BAR International Series 2508: 99-110.
+
+Johansen, K.L., Laursen, S.T. And Holst, M.K. (2004). Spatial patterns of social organization in the Early Bronze
+Age of South Scandinavia. *Journal of Anthropological Archaeology* 23: 33–55.
+
+Llobera, M. (2003). Extending GIS-based visual analysis: the concept of visualscapesInt. *Journal of Geographic Information Science* 17: 25-48. doi:10.1080/13658810210157732
+
+Løvschal, M. (2013). Ways of Wandering: Tradition and Change in the Late Bronze Age Landscape of Himmerland, Denmark. In D. Fontijn, A.J. Louwen, S. van der Vaart and K. Wentink (eds): *Beyond Barrows. Current research on the structuration and perception of the Prehistoric Landscape through Monuments*: 225-250. Leiden: Sidestone Press.
+
+Müller (1904). Vei og Bygd i Sten- og Bronzealderen. *Aarbøger for nordisk Oldkyndighed og Historie* 19: 1-64.
+
+Tartaron, T. 2013. *Maritime Networks in the Mycenaean* World. Cambridge: Cambridge University Press.
+
+Tuan (1977). _Space and Place: The Perspective of Experience_. University of Minnesota Press, Minneapolis.
+
+Verhagen, J.W.H.P. and C.F. Jeneson (2012). A Roman Puzzle. Trying to find the Via Belgica with GIS. In A. Chrysanthi, P. Murrieta Flores and C. Papadopoulos (eds.) _Thinking Beyond the Tool. Archaeological Computing and the Interpretive Process_: 123-130. Oxford: Archaeopress. 
