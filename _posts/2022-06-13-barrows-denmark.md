@@ -48,7 +48,7 @@ In any case, a territory is by definition consubstantial with power. Indeed, wit
 
 Figure ___ Many a medieval ruler lives on the move. Compare winter and summer stays of Plantagenet king John (nicknamed ‘Lackland’): his mobility does not show patterns of summer military campaigns, nor of a control from a specific royal stronghold (data from Gillespie 2017). 
 
-Conclusion
+## Conclusion
 This poster presents, to the author’s knowledge, a unique attempt to computationally model large-scale mobility patterns over the Jutish peninsula in the Bronze Age. However, the exercise does not aim to reconstruct specific pathways nor to pinpoint presumed movement channels. Mobility is more than a set of occasional activities; it is rather a foundation for a wide range of spatial practices, from everyday subsistence tasks, to trade, warfare and social contact at distance. This poster is introducing the concept of mobility space, populated with active, mobile human agents. Maps and mapping have done much disservice to archaeological approaches to past geographies, shaping our understating of the past through the discourse of bounded areas, sizes and distances. The map presented here should disclose the immense complexity that underlies what would otherwise be left as cartographic blanks. There is no such thing as an empty space, but rather an intricate web of effective or potential connections, reaching to every corner of the inhabited land and still awaiting to be tackled for the Bronze Age.  
 
 ## Bibliography
