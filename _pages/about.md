@@ -11,26 +11,26 @@ LandscapeArchaeology.org brings together my work on GIS analysis and archaeology
 Happy mapping,<br>
 Zoran Čučković.
 
-## Publishing & citation
+### Publishing & citation
 
 LandscapeArchaeology.org is published in France and is attributed ISSN 2649-8774. It is also archived at [GitHub](https://github.com/zoran-cuckovic/LandscapeArchaeology.org), which should make it  safe enough for scientific reference. 
 
-## Cookie policy
+### Cookie policy
 
 There are few sites out there that don't collect any information on their visitors. This site features a Google Analytics cookie (as does 3/4 of the web...). [Check on Wikipedia](https://en.wikipedia.org/wiki/Google_Analytics).  
 
 
-## Coffee corner
+### Coffee corner
 
 Like free, open source software ? Me too! Buy me a coffee, so that I may support you with free GIS goodness.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41HYSW)
 
-## Recent tweets 
+### Recent tweets 
 
 <a class="twitter-timeline" data-height=800 data width=400 href="https://twitter.com/giswhisp?ref_src=twsrc%5Etfw">Tweets by GIS Whispers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Contact
+### Contact
 <div>
 <form id="contact-form"  action="https://formspree.io/cuckovic.zoran@gmail.com" method="POST">
 	 Your name <input type="text" name="name">
