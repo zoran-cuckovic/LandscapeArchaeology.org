@@ -8,7 +8,7 @@ Poster to be presented at the conference "Modèles d’occupation du sol à l’
 
 __Work in progress ...__
 
-![poster-work-in-progress](/figures/2022-06-poster-denmark.jpg)
+[![poster-work-in-progress](/figures/2022-06-poster-denmark.jpg)](/figures/2022-06-poster-denmark.jpg)
 
 
 ## Introduction
