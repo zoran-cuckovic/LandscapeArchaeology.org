@@ -77,7 +77,7 @@ Holst, M.K. & Rasmussen, M. (2013). Herder Communities: Longhouses, Cattle and L
 Johansen, K.L., Laursen, S.T. And Holst, M.K. (2004). Spatial patterns of social organization in the Early Bronze
 Age of South Scandinavia. *Journal of Anthropological Archaeology* 23: 33–55.
 
-Llobera, M. (2003). Extending GIS-based visual analysis: the concept of visualscapesInt. *Journal of Geographic Information Science* 17: 25-48. [doi:10.1080/13658810210157732](doi.org/10.1080/13658810210157732).
+Llobera, M. (2003). Extending GIS-based visual analysis: the concept of visualscapesInt. *Journal of Geographic Information Science* 17: 25-48. [doi:110.1080/713811741](doi.org/10.1080/713811741).
 
 Løvschal, M. (2013). Ways of Wandering: Tradition and Change in the Late Bronze Age Landscape of Himmerland, Denmark. In D. Fontijn, A.J. Louwen, S. van der Vaart and K. Wentink (eds): *Beyond Barrows. Current research on the structuration and perception of the Prehistoric Landscape through Monuments*: 225-250. Leiden: Sidestone Press.
 
