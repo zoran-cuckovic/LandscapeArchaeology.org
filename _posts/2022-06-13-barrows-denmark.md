@@ -58,11 +58,11 @@ This poster presents, to the author’s knowledge, a unique attempt to computati
 ## Bibliography
 Bonnemaison, J. (1986). *Les fondements d’une identité : Territoire, histoire et société dans l’archipel de Vanuatu (Mélanésie). Vol 1. L’arbre et la pirogue.* Paris : OROSTOM. 
 
-Calvo, M., D. Javaloyas, D. Albero, J. Garcia-Rosselló, and V. Guerrero (2011). The Ways People Move: Mobility and Seascapes in the Balearic Islands during the Late Bronze Age (c. 1400–850/800 BC). *World Archaeology* 43 (3): 345–363. [doi:10.1080/00438243.2011.605840](doi.org/10.1080/00438243.2011.605840).
+Calvo, M., D. Javaloyas, D. Albero, J. Garcia-Rosselló, and V. Guerrero (2011). The Ways People Move: Mobility and Seascapes in the Balearic Islands during the Late Bronze Age (c. 1400–850/800 BC). *World Archaeology* 43 (3): 345–363. [doi:10.1080/00438243.2011.605840](https://doi.org/10.1080/00438243.2011.605840).
 
 Čučković., Z. (2016). Advanced viewshed analysis: a Quantum GIS plug-in for the analysis of visual landscapes. *The Journal of Open Source Software* 1 (4). doi:10.21105/joss.00032. 
 
-Čučković, Z. (2017) Claiming the sea: Bronze Age fortified sites of the north-eastern Adriatic Sea (Cres and Lošinj islands, Croatia). *World Archaeology* 49(4): 526-546, [doi:10.1080/00438243.2017.1341331](doi.org/10.1080/00438243.2017.1341331).
+Čučković, Z. (2017) Claiming the sea: Bronze Age fortified sites of the north-eastern Adriatic Sea (Cres and Lošinj islands, Croatia). *World Archaeology* 49(4): 526-546, [doi:10.1080/00438243.2017.1341331](https://doi.org/10.1080/00438243.2017.1341331).
 
 Danish ministry of culture (2021). Fund og Fortidsminder. Data available at [https://www.kulturarv.dk/fundogfortidsminder/](https://www.kulturarv.dk/fundogfortidsminder/)).
 
@@ -77,7 +77,7 @@ Holst, M.K. & Rasmussen, M. (2013). Herder Communities: Longhouses, Cattle and L
 Johansen, K.L., Laursen, S.T. And Holst, M.K. (2004). Spatial patterns of social organization in the Early Bronze
 Age of South Scandinavia. *Journal of Anthropological Archaeology* 23: 33–55.
 
-Llobera, M. (2003). Extending GIS-based visual analysis: the concept of visualscapesInt. *Journal of Geographic Information Science* 17: 25-48. [doi:110.1080/713811741](doi.org/10.1080/713811741).
+Llobera, M. (2003). Extending GIS-based visual analysis: the concept of visualscapesInt. *Journal of Geographic Information Science* 17: 25-48. [doi:110.1080/713811741](https://doi.org/10.1080/713811741).
 
 Løvschal, M. (2013). Ways of Wandering: Tradition and Change in the Late Bronze Age Landscape of Himmerland, Denmark. In D. Fontijn, A.J. Louwen, S. van der Vaart and K. Wentink (eds): *Beyond Barrows. Current research on the structuration and perception of the Prehistoric Landscape through Monuments*: 225-250. Leiden: Sidestone Press.
 
