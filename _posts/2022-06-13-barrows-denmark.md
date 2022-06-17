@@ -6,7 +6,6 @@ title: 'Bronze Age reticular territories: pathways and barrows in Jutland (Denma
 
 Poster to be presented at the conference "Modèles d’occupation du sol à l’âge du Bronze en Europe", Metz, June 22, 2022. 
 
-__Work in progress ...__
 
 [![poster-work-in-progress](/figures/2022-06-poster-denmark.jpg)](/figures/2022-06-poster-denmark.jpg)
 
@@ -42,11 +41,15 @@ Note that modelling of human mobility behaviour is not a straightforward matter 
 ## Reticular territories
 Crucially, the mobility space is not one among various “social spaces”. Mobility practices cannot be separated from other practices: they render the space practicable for any other purpose. Political power and territorial control are among of these. 
 
-From this point of view, it is interesting to compare the Scandinavian Bronze Age landscape with the prehistoric Mediterranean. There, large numbers of sites, such as fortified strongholds and funerary barrows, tend to gather in places that overlook the sea and in particular sea routes. Such patterns have been noted for the Balearic archipelago (Calvo et al. 2011), the Adriatic coast (Čučković 2017), and the Aegean (Tartaron 2013). But how exactly are we to conceptualise such controlled and coveted sea? If anything, the maritime mobility space cannot be envisaged as a mosaic composed of a myriad of local territories. The sea in itself offers few assets that would require such territorialisation (fishing zones?); it's rather the connectivity with distant lands which brings both opportunity and danger. Therefore, the territorialisation of the sea should be seen as a mobility politics, i.e. the control, or the attempt to control the flow of people and goods. Such reticular territories are not defined by exclusive boundaries, but rather by privileged connections at various distances. If the common concept of territory is founded upon the notion of space and its containment within a boundary, the concept of reticular territory is founded upon the notion of connectivity and privileges in terms of access to various mobility channels (see also Bonnemaison 1986). 
+From this point of view, it is interesting to compare the Scandinavian Bronze Age landscape with the prehistoric Mediterranean. There, large numbers of sites, such as fortified strongholds and funerary barrows, tend to gather in places that overlook the sea and in particular sea routes. Such patterns have been noted for the Balearic archipelago (Calvo et al. 2011), the Adriatic coast (Čučković 2017), and the Aegean (Tartaron 2013). 
+
+![Map of Kvarner Bay]({{site.baseurl}}/figures/2022-06-kvarner.jpg)
+
+But how exactly are we to conceptualise such controlled and coveted sea? If anything, the maritime mobility space cannot be envisaged as a mosaic composed of a myriad of local territories. The sea in itself offers few assets that would require such territorialisation (fishing zones?); it's rather the connectivity with distant lands which brings both opportunity and danger. Therefore, the territorialisation of the sea should be seen as a mobility politics, i.e. the control, or the attempt to control the flow of people and goods. Such reticular territories are not defined by exclusive boundaries, but rather by privileged connections at various distances. If the common concept of territory is founded upon the notion of space and its containment within a boundary, the concept of reticular territory builds upon the notion of connectivity and privileges in terms of access to various mobility channels (see also Bonnemaison 1986). 
 
 In any case, a territory is by definition consubstantial with power. Indeed, without being able to act at distance, political power remains only nominal. Mobility of the powerful can be a solution to this problem, as in the case of the European medieval kingdoms. The absence of permanent courts and residences for many a medieval ruler prior to the 12th or 13th century is very intriguing, given that none of social, economic and political circumstances seem to have prevented such a development. Rather, a number of rulers, together with the accompanying elite court, deliberately chose to move across the kingdom. This was not a sporadic affair but indeed a life on the move, shifting location continuously. The data available for the Plantagenet dynasty king John 'Lackland' (1099-1216) reveal staggering 2250 journeys during his reign (Gillespie 2017). Mobility was probably a necessity for the exercise of the power, but it was also a mark of royal status. 
 
-![2022-06-king-john.jpg]({{site.baseurl}}/figures/2022-06-king-john.jpg)
+![2022-06-king-john.jpg]({{site.baseurl}}/figures/2022-06-king-john.jpg){: width="500" } 
 *Figure 4. Many a medieval ruler lives on the move. Compare winter (blue) and summer (red) stays of Plantagenet king John ‘Lackland’ from 1199 to 1216. His mobility does not show patterns of summer military campaigns, nor of a control from a specific royal stronghold (data from Gillespie 2017).*
 
 ## Conclusion
