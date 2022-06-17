@@ -50,7 +50,7 @@ But how exactly are we to conceptualise such controlled and coveted sea? If anyt
 
 In any case, a territory is by definition consubstantial with power. Indeed, without being able to act at distance, political power remains only nominal. Mobility of the powerful can be a solution to this problem, as in the case of the European medieval kingdoms. The absence of permanent courts and residences for many a medieval ruler prior to the 12th or 13th century is very intriguing, given that none of social, economic and political circumstances seem to have prevented such a development. Rather, a number of rulers, together with the accompanying elite court, deliberately chose to move across the kingdom. This was not a sporadic affair but indeed a life on the move, shifting location continuously. The data available for the Plantagenet dynasty king John 'Lackland' (1099-1216) reveal staggering 2250 journeys during his reign (Gillespie 2017). Mobility was probably a necessity for the exercise of the power, but it was also a mark of royal status. 
 
-![2022-06-king-john.jpg]({{site.baseurl}}/figures/2022-06-king-john.jpg)
+![2022-06-king-john.jpg]({{site.baseurl}}/figures/2022-06-king-john.jpg){: width="500"}
 *Figure 4. Many a medieval ruler lives on the move. Compare winter (blue) and summer (red) stays of Plantagenet king John ‘Lackland’ from 1199 to 1216. His mobility does not show patterns of summer military campaigns, nor of a control from a specific royal stronghold (data from Gillespie 2017).*
 
 ## Conclusion
