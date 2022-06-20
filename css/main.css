@@ -1,6 +1,3 @@
----
-layout: null
----
 
 @import url("pygment_highlights.css");
 
@@ -476,7 +473,7 @@ footer .theme-by {
     margin-top: 10px;
   }
 }
-
+/* Commented out ZC
 @media only screen and (max-width: 500px) {
   .post-image, .post-image img {
     height: 100px;
@@ -490,6 +487,8 @@ footer .theme-by {
     float: left;
   }
 }
+*/
+
 /* --- Post and page headers --- */
 
 .intro-header {
@@ -645,12 +644,14 @@ footer .theme-by {
 #header-gh-btns {
   margin-bottom: 15px;
 }
+/* Commented out ZC
 @media only screen and (max-width: 500px) {
   #header-gh-btns > iframe {
     display: block;
     margin-bottom: 5px;
   }
 }
+*/
 
 /* --- Pager --- */
 
