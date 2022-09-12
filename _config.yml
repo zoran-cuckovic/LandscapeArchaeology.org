@@ -33,6 +33,7 @@ include:
 navbar-links:
   # Books: "books"
   Content: "tags"
+  Cours SIG: "https://drive.uca.fr/d/c1c50fa5c5db4b849fc2/"
   QGIS projects:
     - QGIS visibility analysis: "qgis-visibility-analysis"
     - QGIS terrain shading:  "qgis-terrain-shading" 
