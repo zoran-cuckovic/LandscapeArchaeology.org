@@ -4,10 +4,12 @@ published: true
 title: 'Free lidar data [work in progress]'
 permalink: /lidar-data/
 ---
+#Argentina
+[www.ign.gob.ar](https://www.ign.gob.ar/NuestrasActividades/Geodesia/ModeloDigitalElevaciones/Mapa): patchy Lidar derived DEMs in 0.5 m resolution (urban areas mostly), country wide DEMs in lower resolutions (5 m, 30 m).
 
 # Austria
 ### Upper Austria
-[https://www.land-oberoesterreich.gv.at/211787.htm](https://www.land-oberoesterreich.gv.at/211787.htm) : DEM 0.5m, DEM 1m.
+[https://www.land-oberoesterreich.gv.at/211787.htm](https://www.land-oberoesterreich.gv.at/211787.htm) : DEM 0.5 m, DEM 1 m.
 
 
 # Belgium
@@ -19,18 +21,18 @@ permalink: /lidar-data/
 
 
 # Denmark
-[https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid](https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid) : DEM 0.4m.
+[https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid](https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid) : DEM 0.4 m.
 
 [https://download.kortforsyningen.dk/content/dhmpunktsky](https://download.kortforsyningen.dk/content/dhmpunktsky) : point cloud (4-5 pts/m²).
 
 NB. Free registration is needed.
 
 # Estonia
-[https://geoportaal.maaamet.ee/eng/Spatial-Data/Elevation-data-p308.html](https://geoportaal.maaamet.ee/eng/Spatial-Data/Elevation-data-p308.html) : DEM 1m, 5m, point cloud.
+[https://geoportaal.maaamet.ee/eng/Spatial-Data/Elevation-data-p308.html](https://geoportaal.maaamet.ee/eng/Spatial-Data/Elevation-data-p308.html) : DEM 1 m, 5 m, point cloud.
 
 
 # Finland: 
-[https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en](https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en) : DEM 2m, 10m, point cloud (5 pts/m²).
+[https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en](https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en) : DEM 2 m, 10 m, point cloud (5 pts/m²).
 
 # France
 
@@ -44,10 +46,10 @@ NB. Free registration is needed.
 [diffusion.shom.fr](https://diffusion.shom.fr/pro/catalogsearch/result/?q=+lidar): patchy coverage of the coastal strip (Atlantic, Mediterranean).
 
 # Germany
-[https://data.geobasis-bb.de/geobasis/daten/dgm/](https://data.geobasis-bb.de/geobasis/daten/dgm/) : DEM 1m.
+[https://data.geobasis-bb.de/geobasis/daten/dgm/](https://data.geobasis-bb.de/geobasis/daten/dgm/) : DEM 1 m.
 
 # Ireland: 
-[https://data.gov.ie/dataset/open-topographic-lidar-data](https://data.gov.ie/dataset/open-topographic-lidar-data) : DEM 0.1m to 1m.
+[https://data.gov.ie/dataset/open-topographic-lidar-data](https://data.gov.ie/dataset/open-topographic-lidar-data) : DEM 0.1 m to 1 m.
 
 - very limited coverage of Lidar surveys.
 
@@ -55,6 +57,11 @@ NB. Free registration is needed.
 [www.pcn.minambiente.it](http://www.pcn.minambiente.it/mattm/procedura-richiesta-dati-lidar-e-interferometrici-ps/): DTM 1 or 2 meters
 
 NB. A formal request and 2 euros fee are required.
+
+[https://tinitaly.pi.ingv.it/](https://tinitaly.pi.ingv.it/): DTM in TIN format, 10 m
+
+[https://www.geoportale.regione.lombardia.it](
+https://www.geoportale.regione.lombardia.it/en/download-pacchetti?p_p_id=dwnpackageportlet_WAR_gptdownloadportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dwnpackageportlet_WAR_gptdownloadportlet_metadataid=%7BFC06681A-2403-481F-B6FE-5F952DD48BAF%7D): DTM 2 m
 
 ### Trentino-Alto Adige
 [territorio.provincia.tn.it](http://www.territorio.provincia.tn.it/portal/server.pt/community/lidar/847/lidar/23954): DSM/STM 1m, 2m, point cloud (upon request).
