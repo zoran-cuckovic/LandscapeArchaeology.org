@@ -19,6 +19,12 @@ permalink: /lidar-data/
 ### Wallony:
 [http://geoportail.wallonie.be/catalogue/cd7578ef-c726-46cb-a29e-a90b3d4cd368.html](http://geoportail.wallonie.be/catalogue/cd7578ef-c726-46cb-a29e-a90b3d4cd368.html) : point cloud (0.8 pts/m²).
 
+# Brazil
+[https://www.ibge.gov.br/geociencias/modelos-digitais-de-superficie/modelos-digitais-de-superficie/10856-mde-modelo-digital-de-elevacao.html](https://www.ibge.gov.br/geociencias/modelos-digitais-de-superficie/modelos-digitais-de-superficie/10856-mde-modelo-digital-de-elevacao.html): image derived DEM, 40 m.
+
+# Canada
+## Ontario
+[open.canada.ca](https://open.canada.ca/data/en/dataset/90a9edf0-06db-4355-91ce-c0123c86f23b/resource/de5eb4d5-89d2-48aa-8a40-599668385b17): image derived 2 m DEM.
 
 # Denmark
 [https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid](https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid) : DEM 0.4 m.
