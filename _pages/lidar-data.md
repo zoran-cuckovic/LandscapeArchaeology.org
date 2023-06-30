@@ -27,11 +27,11 @@ permalink: /lidar-data/
 [open.canada.ca](https://open.canada.ca/data/en/dataset/90a9edf0-06db-4355-91ce-c0123c86f23b/resource/de5eb4d5-89d2-48aa-8a40-599668385b17): image derived 2 m DEM.
 
 # Denmark
-[https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid](https://download.kortforsyningen.dk/content/dhmterr%C3%A6n-04-m-grid) : DEM 0.4 m.
+[https://dataforsyningen.dk/data/930](https://dataforsyningen.dk/data/930) : DEM 0.4 m.
 
-[https://download.kortforsyningen.dk/content/dhmpunktsky](https://download.kortforsyningen.dk/content/dhmpunktsky) : point cloud (4-5 pts/m²).
+[https://dataforsyningen.dk/data/3931](https://dataforsyningen.dk/data/3931) : point cloud (4-5 pts/m²).
 
-NB. Free registration is needed.
+NB. Free registration is needed. You can also find other coll stuff at *dataforsyningen.dk* (architecture, hydrology etc.).
 
 # Estonia
 [https://geoportaal.maaamet.ee/eng/Spatial-Data/Elevation-data-p308.html](https://geoportaal.maaamet.ee/eng/Spatial-Data/Elevation-data-p308.html) : DEM 1 m, 5 m, point cloud.
