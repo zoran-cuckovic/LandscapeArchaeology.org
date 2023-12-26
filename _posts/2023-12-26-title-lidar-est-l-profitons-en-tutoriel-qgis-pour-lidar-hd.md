@@ -57,20 +57,30 @@ L'outil nous demande, entre autres, la résolution souhaitée et la sélection d
 
 L'utilisation d'un filtre est primordiale, nous permettant de choisir la ou les classes d'intérêt : sol, architecture, végétation, etc. Éventuellement, nous pouvons faire des modèles multiples pour comparer l'apport de différentes classes. A ce stade **ne chargez pas les dalles dans QGIS**. Le logiciel doit les traiter une par une  pour la visualisation, ce qui est excessivement long (10 - 15 minutes pour un lot de taille moyenne). Je propose un script en Python pour le traitement direct, en appelant l'outil d'exportation en raster. Le script est téléchargeable à partir du lien [ci-dessus][Téléchargement], pour être chargé dans QGIS via la boite à outils de traitement.
 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_4.jpg)
 Chargement d'un script dans le Traitement.
 
 Le plugin est rangé parmi les *Scripts*, section *LandscapeArchaeology*. L’interface est très simple et reprend les paramètres de l’outil QGIS expliqués ci-dessus. Enfin, veuillez prendre en compte le temps nécessaire pour traiter des gros lots, d’ordre de plusieurs heures pour une commune (une minute par dalle +/-).
 
 Une fois la conversion en raster faite, il nous reste à traiter les dalles crées. Pour les jeux de données de taille raisonnable, disons jusqu’à 2 ou 3 giga-octets, il est commode de fusionner les dalles en une seule surface. Sinon, pour les jeux de données plus conséquents, ou bien pour les ordinateurs moins puissants, il nous reste l’option du raster virtuel [4][4].
 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_5.jpg)
 Fusion des dalles
 
 ATTENTION : veuillez à renseigner la valeur -9999 comme *NoData*, c’est-à-dire le vide. Nous avons en effet écarté plusieurs catégories (classes) de points – sinon, c’est pas bien fait –, ce qui laissera des vides à l’emplacement, par exemple, de la végétation. L’algorithme QGIS (ou PDAL en réalité) utilise par défaut la valeur -9999 pour marquer les vides.
 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_6.jpg)
 Bien renseigner la valeur des vides (NoData).
 
 Alors les trous, il va falloir les combler. L’outil GDAL *Fill nodata* est parfait pour la tâche (à trouver sous le menu raster, ou dans le outils du Traitement). Le MNT est prêt !
 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_7.jpg)
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_8.jpg)
 Puy-en-Velay: visualisation créé avec le plugin Terrain shading.
 
 Le traitement du MNT est un sujet que j’aborderai dans un post ultérieur ; j’utilise notamment le plugin *Terrain Shading*[5][5] que j’ai développé pour la visualisation analytique des MNTs.
