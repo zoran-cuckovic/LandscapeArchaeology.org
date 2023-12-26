@@ -80,13 +80,13 @@ Alors les trous, il va falloir les combler. L’outil GDAL *Fill nodata* est par
 
 ![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_7.jpg)
 
-Maintenant, nous povons nous amuser avec notre MNT lidar (Puy-en-Velay) :
+Enfin, nous allons pouvoir nous amuser avec le MNT lidar (Puy-en-Velay) :
 
 ![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_8.jpg)
 
 ... ou en 3D : 
 
-![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_8.jpg)
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_9.jpg)
 
 
 Les visualisations ont été faites à l'aide du plugin *Terrain shading* [5][5]. J'aborderai le traitement du MNT dans un post ultérieur (à suivre...).
