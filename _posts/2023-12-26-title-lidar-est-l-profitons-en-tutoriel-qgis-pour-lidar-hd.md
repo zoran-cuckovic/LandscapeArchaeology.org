@@ -4,7 +4,7 @@ published: false
 title: 'Title: Lidar est là : profitons-en. Tutoriel QGIS pour lidar HD.'
 ---
 
-Attendues depuis très longtemps, les données lidar pour le territoire métropolitain français sont enfin disponibles. Chaque élément du terrain ou presque est enregistré en 3D : bâtiments, relief, trait de côte, etc. Le suivi du projet - une moitié du territoire est couverte au moment de rédaction - et le téléchargement des données peuvent être trouvées sur *geoservices.ign.fr* [1][1].
+Attendues depuis très longtemps, les données lidar pour le territoire métropolitain français sont enfin disponibles. Chaque élément du terrain ou presque est enregistré en 3D : bâtiments, relief, trait de côte, etc. Le suivi du projet - une moitié du territoire est couverte au moment de rédaction - et le téléchargement des données peuvent être trouvées sur *geoservices.ign.fr* [1].
 
 Mais, que sont en réalité ses fameuses données lidar ? Un peu de théorie s'impose en amont du tutoriel pas à pas. L'appareil lidar utilise les faisceaux laser pour obtenir des mesures de distance. Ainsi, des millions de faisceaux sont envoyés depuis un avion, un hélicoptère ou un drone pour restituer finement la topographie ("HD" signifie haute définition). Or, les faisceaux peuvent rebondir de tout type d'obstacle autre que la surface du sol: bâtiments, végétation ou même des oiseaux en vol. S'impose donc la tâche très technique de classification, c'est à dire d'interprétation des signaux de retour en fonction de la nature de cible atteinte. Voici les codes standardisés de classification utilisés pour le format de données .las/.laz :
 
@@ -24,7 +24,8 @@ Mais, que sont en réalité ses fameuses données lidar ? Un peu de théorie s'i
 | etc. |
 
 
-Il arrive, souvent même, des erreurs de classification ; une haie bizarrement taillée peut être prise pour un bâtiment, un buisson pour un rocher, par exemple. Ceci-dit, je trouve que les classifications fournies avec le lidar HD sont plutôt fiables - à étudier par chacun pour son usage particulier [2][2]. Nous n'allons pas aborder la classification ici - problématique très ardue - il s'agit tout simplement de comprendre que nous avons besoin des **données classifiées** par le prestataire, à la différence des données brutes. Nous comprenons également le besoin de jongler avec plusieurs classes pour récupérer des éléments d’intérêt, ou encore de vérifier les erreurs de classification (éléments omis ou faux positifs, tels les bâtiments fantômes).
+
+Il arrive, souvent même, des erreurs de classification ; une haie bizarrement taillée peut être prise pour un bâtiment, un buisson pour un rocher, par exemple. Ceci-dit, je trouve que les classifications fournies avec le lidar HD sont plutôt fiables - à étudier par chacun pour son usage particulier [2]. Nous n'allons pas aborder la classification ici - problématique très ardue - il s'agit tout simplement de comprendre que nous avons besoin des **données classifiées** par le prestataire, à la différence des données brutes. Nous comprenons également le besoin de jongler avec plusieurs classes pour récupérer des éléments d’intérêt, ou encore de vérifier les erreurs de classification (éléments omis ou faux positifs, tels les bâtiments fantômes).
 
 ## Tutoriel
 
@@ -63,7 +64,7 @@ Chargement d'un script dans le Traitement.
 
 Le plugin est rangé parmi les *Scripts*, section *LandscapeArchaeology*. L’interface est très simple et reprend les paramètres de l’outil QGIS expliqués ci-dessus. Enfin, veuillez prendre en compte le temps nécessaire pour traiter des gros lots, d’ordre de plusieurs heures pour une commune (une minute par dalle +/-).
 
-Une fois la conversion en raster faite, il nous reste à traiter les dalles crées. Pour les jeux de données de taille raisonnable, disons jusqu’à 2 ou 3 giga-octets, il est commode de fusionner les dalles en une seule surface. Sinon, pour les jeux de données plus conséquents, ou bien pour les ordinateurs moins puissants, il nous reste l’option du raster virtuel [4][4].
+Une fois la conversion en raster faite, il nous reste à traiter les dalles crées. Pour les jeux de données de taille raisonnable, disons jusqu’à 2 ou 3 giga-octets, il est commode de fusionner les dalles en une seule surface. Sinon, pour les jeux de données plus conséquents, ou bien pour les ordinateurs moins puissants, il nous reste l’option du raster virtuel [4].
 
 
 ![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_5.jpg)
@@ -89,7 +90,7 @@ Enfin, nous allons pouvoir nous amuser avec le MNT lidar (Puy-en-Velay) :
 ![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_9.jpg)
 
 
-Les visualisations ont été faites à l'aide du plugin *Terrain shading* [5][5]. J'aborderai le traitement du MNT dans un post ultérieur (à suivre...).
+Les visualisations ont été faites à l'aide du plugin *Terrain shading* [5]. J'aborderai le traitement du MNT dans un post ultérieur (à suivre...).
 
 Bonne continuation !
 
