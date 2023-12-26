@@ -80,14 +80,22 @@ Alors les trous, il va falloir les combler. L’outil GDAL *Fill nodata* est par
 
 ![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_7.jpg)
 
-![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_8.jpg)
-Puy-en-Velay: visualisation créé avec le plugin Terrain shading.
+Maintenant, nous povons nous amuser avec notre MNT lidar (Puy-en-Velay) :
 
-Le traitement du MNT est un sujet que j’aborderai dans un post ultérieur ; j’utilise notamment le plugin *Terrain Shading*[5][5] que j’ai développé pour la visualisation analytique des MNTs.
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_8.jpg)
+
+... ou en 3D : 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_8.jpg)
+
+
+Les visualisations ont été faites à l'aide du plugin *Terrain shading* [5][5]. J'aborderai le traitement du MNT dans un post ultérieur (à suivre...).
 
 Bonne continuation !
 
 ## Téléchargement 
+
+https://github.com/zoran-cuckovic/QGIS-scripts/ (le dépôt GitHub n'est pas très érgonomique : il faut télécharger l'ensemble du dépôt, ou bien chercher le code brut [*raw*] et enregistrer comme un fichier .py)
 
 ## Liens
 [1]: https://geoservices.ign.fr/lidarhd
