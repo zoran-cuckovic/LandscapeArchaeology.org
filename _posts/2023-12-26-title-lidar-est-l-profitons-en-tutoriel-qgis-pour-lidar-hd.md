@@ -9,6 +9,7 @@ Attendues depuis très longtemps, les données lidar pour le territoire métropo
 Mais, que sont en réalité ses fameuses données lidar ? Un peu de théorie s'impose en amont du tutoriel pas à pas. L'appareil lidar utilise les faisceaux laser pour obtenir des mesures de distance. Ainsi, des millions de faisceaux sont envoyés depuis un avion, un hélicoptère ou un drone pour restituer finement la topographie ("HD" signifie haute définition). Or, les faisceaux peuvent rebondir de tout type d'obstacle autre que la surface du sol: bâtiments, végétation ou même des oiseaux en vol. S'impose donc la tâche très technique de classification, c'est à dire d'interprétation des signaux de retour en fonction de la nature de cible atteinte. Voici les codes standardisés de classification utilisés pour le format de données .las/.laz :
 
 | Code | Catégorie (classe) |
+|------|--------------------|
 | 0  | Jamais classé      |
 | 1  | Non attribué       |
 | 2  | Sol                |
