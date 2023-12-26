@@ -30,16 +30,27 @@ Il arrive, souvent même, des erreurs de classification ; une haie bizarrement t
 
 Le tutoriel suivant présentera la procédure pour le traitement du nuage des points classés, en format .las/.laz dans QGIS. Les données lidar étant extrêmement volumineuses, toute la problématique relève en réalité de la gestion du gros volume (partant des données classifiées). Il faut d'abord choisir les dalles à télécharger. Pour ce faire, nous disposons d'un tableau d'assemblage régulièrement mis au jour.
 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_1.jpg)
 Tableau d'assemblage.
 
 Une fois chargé dans QGIS, le tableau d'assemblage permet de récupérer les liens de téléchargement pour les dalles souhaitées. Il suffit de copier ces liens ... que je ne saurais pas faire directement dans QGIS, donc je passe par Excel. Je copie-colle la sélection dans Excel, pour ensuite sélectionner et copier les liens. ATTENTION : Les données lidar sont volumineuses, d'ordre de 5 à 10 Giga-octets par commune, soyez parcimonieux !
 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_2.jpg)
+Tableau d'assemblage dans QGIS.
+
 Ensuite, nous allons télécharger les dalles en vrac. De nombreuses solutions existent pour ce faire, je utilise *Simple mass downloader* pour Chrome [3]. Il suffit de coller les liens de téléchargement (*uniquement les liens*), et le tour est joué.
 
+
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_3.jpg)
 Simple mass downloader.
 
 Le nuage de points n'est pas très utile pour les traitements SIG, hormis quelques visualisations que certains semblent trouver épatantes. Nous allons donc créer un MNT en format raster. L'algorithme est disponible en QGIS depuis la **version 3.32**.
 
+
+![2023_lidarhd_1.jpg]({{site.baseurl}}/figures/2023_lidarhd_3b.jpg)
 Conversion du nuage de points en raster.
 
 L'outil nous demande, entre autres, la résolution souhaitée et la sélection de classes à prendre en compte. Concernant la résolution, un demi-mètre et à mon sens le maximum de précision justifiable, et un mètre peut-être un bon compromis entre la précision et la maniabilité (à étudier). L'attribut se réfère à la valeur enregistrée ; pour notre cas ce sera l'altitude en z. Autres attributs peuvent être intéressants pour une étude technique de l'acquisition lidar (temps d'acquisition, intensité du faisceau, nombre de reflets, etc.).
