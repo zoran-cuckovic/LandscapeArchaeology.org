@@ -4,6 +4,10 @@ published: true
 title: 'Paths and Pathways to Iron Age Europe '
 subtitle: POTEUS / PHC project on digital modelling of prehistoric mobility
 ---
+La 2024 s'annonce bien, le projet qu'on a proposé avec les collegues slovènes et français a reçu feu vert. Financé par le ministère de l'Europe et des Affaires étrangers, d'une part, et le ministère de l'Enseignement supérieur, de la Science et de l'Innovation du côté slovène, le programme Poteus est dédié aux developpement de nouveau reseaux collaboratifs scientifiques (https://www.campusfrance.org/fr/proteus)[https://www.campusfrance.org/fr/proteus]. La suite du billet est reprise de la proposition :
+
+## Paths&Pathways Project
+
 La mobilité des femmes et des hommes, mais aussi des animaux et des biens échangés, constitue une problématique clé dans la recherche sur les sociétés anciennes. Aujourd’hui, la question s’impose d’autant plus que les analyses chimiques et biochimiques permettent des avancées considérables. Le séquençage ADN, de même que la détection de diverses signatures chimiques permettent de retracer les déplacements des populations et des objets à très longues distances.
 
 Cette problématique est particulièrement prégnante pour l’époque protohistorique en Europe (IIe et Ier millénaires av. n. è.). Un vaste réseau d’échanges et contacts s’est installé en Europe dès cette époque, amenant métaux, esclaves ou ambre scandinave en Égée, contre des produits méditerranéens, souvent de luxe (vaisselle de table, vin, verre, etc.). Cependant, le fonctionnement de ce réseau d’échanges reste très mal compris, particulièrement à cause du manque d’informations sur les infrastructures et les pratiques sociales de mobilité.
