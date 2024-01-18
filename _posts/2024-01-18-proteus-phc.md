@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Paths and Pathways to Iron Age Europe '
 subtitle: POTEUS / PHC project on digital modelling of prehistoric mobility
 ---
