@@ -1,23 +1,19 @@
 ---
 layout: post
 published: false
-title: Proteus-PHC
+title: >-
+  Paths and Pathways to Iron Age Europe : POTEUS / PHC project on digital
+  modelling of prehistoric mobility
 ---
 La mobilité des femmes et des hommes, mais aussi des animaux et des biens échangés, constitue une problématique clé dans la recherche sur les sociétés anciennes. Aujourd’hui, la question s’impose d’autant plus que les analyses chimiques et biochimiques permettent des avancées considérables. Le séquençage ADN, de même que la détection de diverses signatures chimiques permettent de retracer les déplacements des populations et des objets à très longues distances.
 
 Cette problématique est particulièrement prégnante pour l’époque protohistorique en Europe (IIe et Ier millénaires av. n. è.). Un vaste réseau d’échanges et contacts s’est installé en Europe dès cette époque, amenant métaux, esclaves ou ambre scandinave en Égée, contre des produits méditerranéens, souvent de luxe (vaisselle de table, vin, verre, etc.). Cependant, le fonctionnement de ce réseau d’échanges reste très mal compris, particulièrement à cause du manque d’informations sur les infrastructures et les pratiques sociales de mobilité.
 
-Effacés par le passage du temps, les chemins protohistoriques se sont montrés insaisissables pour les archéologues. Les déplacements nomades et pastoraux, au gré desquels vivaient tant de populations préhistoriques, n’avaient guère besoin d’infrastructure lourde ayant pu laisser des traces visibles aujourd’hui. L’absence d’aménagements d’envergure pour ces époques très anciennes rend leur existence en un lieu donnée difficile à démontrer, en dehors des rares sites particulièrement bien conservés ; ainsi, les archéologues manquent d’éléments pour reconstituer les réseaux de communication et même pour comprendre les destinations visées.
+Effacés par le passage du temps, **les chemins protohistoriques** se sont montrés insaisissables pour les archéologues. Les déplacements nomades et pastoraux, au gré desquels vivaient tant de populations préhistoriques, n’avaient guère besoin d’infrastructure lourde ayant pu laisser des traces visibles aujourd’hui. L’absence d’aménagements d’envergure pour ces époques très anciennes rend leur existence en un lieu donnée difficile à démontrer, en dehors des rares sites particulièrement bien conservés ; ainsi, les archéologues manquent d’éléments pour reconstituer les réseaux de communication et même pour comprendre les destinations visées.
 
-Le projet Paths&Pathways abordera la problématique des réseaux de communication protohistoriques en utilisant la simulation numérique, appliquée au cas d'étude dans le Dolenjska (sud-est de la Slovénie). Les approches computationnelles constituent un nouveau domaine de recherche en archéologie, transversal et très novateur, qui se déploie à la croisée de l’étude historique, de la géographie quantitative et de l’algorithmique numérique. Il est ainsi possible de simuler les parcours pastoraux ou le transport des biens en prenant en compte divers paramètres écologiques, géographiques et culturels.
-La Dolenjska est une région particulièrement riche en témoins d’occupation de l’âge du Fer, entre le VIIIe et Ier s. av. n. e. A cette
-époque, la petite région située dans la zone de contact entre l’espace méditerranéen et le Bassin des Carpates, s’est trouvé sur
-un point clé des échanges commerciaux ; en témoignent les objets importés de la péninsule italienne (poterie, verre, bijoux) et des
-régions de la plaine Danubienne (vaisselle métallique, parure, armes). Un réseau de larges sites fortifiés s’est formé à cette
-époque, ce qui laisse envisager l’émergence de pouvoirs territoriaux. Qui plus est, les productions artistiques, représentant des
-scènes des banquets, des processions ou des combats, révèlent la vie d’une élite puissante. Issue de plus d’un demi-siècle de
-recherche intensive, la documentation archéologique est particulièrement exhaustive pour la région (1). Néanmoins, les chemins
-et les réseaux de communication restent pratiquement inconnus, malgré leur rôle incontestable comme levier des pouvoirs
+Le projet Paths&Pathways abordera la problématique des réseaux de communication protohistoriques en utilisant **la simulation numérique**, appliquée au cas d'étude dans la Dolenjska (sud-est de la Slovénie). Les approches computationnelles constituent un nouveau domaine de recherche en archéologie, transversal et très novateur, qui se déploie à la croisée de l’étude historique, de la géographie quantitative et de l’algorithmique numérique. Il est ainsi possible de simuler les parcours pastoraux ou le transport des biens en prenant en compte divers paramètres écologiques, géographiques et culturels.
+
+**La Dolenjska** (sud-est de la Slovénie) est une région particulièrement riche en témoins d’occupation de l’âge du Fer, entre le VIIIe et Ier s. av. n. e. A cette époque, la petite région située dans la zone de contact entre l’espace méditerranéen et le Bassin des Carpates, s’est trouvé sur un point clé des échanges commerciaux ; en témoignent les objets importés de la péninsule italienne (poterie, verre, bijoux) et des régions de la plaine Danubienne (vaisselle métallique, parure, armes). Un réseau de larges sites fortifiés s’est formé à cette époque, ce qui laisse envisager l’émergence de pouvoirs territoriaux. Qui plus est, les productions artistiques, représentant des scènes des banquets, des processions ou des combats, révèlent la vie d’une élite puissante. Issue de plus d’un demi-siècle de recherche intensive, la documentation archéologique est particulièrement exhaustive pour la région (1). Néanmoins, les chemins et les réseaux de communication restent pratiquement inconnus, malgré leur rôle incontestable comme levier des pouvoirs
 territoriaux et commerciaux. Leurs vestiges archéologiques se résument à ce jour à un tronçon de voie avérée, menant
 vraisemblablement vers un habitat fortifié.
 L’approche du projet Paths&Pathways s’insère dans le sillon des recherches par modélisation numérique en archéologie,
