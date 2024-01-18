@@ -4,6 +4,7 @@ published: false
 title: >-
   Paths and Pathways to Iron Age Europe : POTEUS / PHC project on digital
   modelling of prehistoric mobility
+subtitle: POTEUS / PHC project on digital modelling of prehistoric mobility
 ---
 La mobilité des femmes et des hommes, mais aussi des animaux et des biens échangés, constitue une problématique clé dans la recherche sur les sociétés anciennes. Aujourd’hui, la question s’impose d’autant plus que les analyses chimiques et biochimiques permettent des avancées considérables. Le séquençage ADN, de même que la détection de diverses signatures chimiques permettent de retracer les déplacements des populations et des objets à très longues distances.
 
