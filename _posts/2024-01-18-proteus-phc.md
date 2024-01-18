@@ -25,15 +25,15 @@ Les objectifs du projet Paths&Pathways peuvent ainsi être résumés de la mani�
 - constituer **un réseau de chercheurs autour du thème de la mobilité dans les sociétés anciennes** et obtenir des résultats originaux grâce à cette recherche collaborative.
 - augmenter la visibilité de ces recherches afin d’être en position de concourir pour un projet à l’échelle européenne (financé par l’ERC par exemple).
 
-Références 
-1) Dular, J., & Tecco-Hvala, S. (2007). South-Eastern Slovenia in the Early Iron Age: settlement, economy, society / Jugovzhodna
-Slovenija v starejši železni dobi: poselitev, gospodarstvo, družba. Opera Instituti Archaeologici Sloveniae, 12. Ljubljana : Inštitut za
-arheologijo ZRC SAZU, Založba ZRC.
-2) Verhagen, P., L. Nuninger & M.R. Groenhuijzen (2019). Modelling of Pathways and Movement Networks in Archaeology: An
-Overview of Current Approaches. In: Verhagen P., Joyce J., Groenhuijzen M. (eds) Finding the Limits of the Limes, pp. 217-249
-3) Llobera, Fábrega-Álvarez, Parcero-Oubiña (2011) : « Order in movement: a GIS approach to accessibility », Journal of
-Archaeological Science 38 843-851)
-4) Mlekuž, D. : « Roads to nowhere? Disentangling meshworks of holloways ». In Z. Czajlik and A. Böd?cs (eds) Aerial
-Archaeology and Remote Sensing from The Baltic to The Adriatic. Budapest 2013, 37–41.
+## Références
+
+1) Dular, J., & Tecco-Hvala, S. (2007). South-Eastern Slovenia in the Early Iron Age: settlement, economy, society / Jugovzhodna Slovenija v starejši železni dobi: poselitev, gospodarstvo, družba. Opera Instituti Archaeologici Sloveniae, 12. Ljubljana : Inštitut za arheologijo ZRC SAZU, Založba ZRC.
+
+2) Verhagen, P., L. Nuninger & M.R. Groenhuijzen (2019). Modelling of Pathways and Movement Networks in Archaeology: An Overview of Current Approaches. In: Verhagen P., Joyce J., Groenhuijzen M. (eds) Finding the Limits of the Limes, pp. 217-249.
+
+3) Llobera, Fábrega-Álvarez, Parcero-Oubiña (2011) : « Order in movement: a GIS approach to accessibility », Journal of Archaeological Science 38 843-851).
+
+4) Mlekuž, D. : « Roads to nowhere? Disentangling meshworks of holloways ». In Z. Czajlik and A. Böd?cs (eds) Aerial Archaeology and Remote Sensing from The Baltic to The Adriatic. Budapest 2013, 37–41.
+
 5) par ex. Martínek et Bíl : « The Geomorphological Effects of Old Routes » 19th European Geosciences
-Union (EGU) Assembly, Vienna 2017
+Union (EGU) Assembly, Vienna 2017.
