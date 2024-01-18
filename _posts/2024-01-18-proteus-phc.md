@@ -21,8 +21,8 @@ Une approche supplémentaire qui sera déployée au cours du projet consiste en 
 est inconnue et peu vraisemblablement protohistorique, mais leur position topographique générale épouse parfois les passages actifs dès la protohistoire (5). De même, les voies et chemins de chronologie inconnue peuvent fournir des informations pertinentes sur le caractère général des communications empruntées par les moyens traditionnels (à pied ou avec les animaux de bas), pour cerner certains éléments intéressants, tels les pentes maximales engagées, le franchissement des zones humides ou le contrôle visuel.
 
 Les objectifs du projet Paths&Pathways peuvent ainsi être résumés de la manière suivante :
-- développer une méthodologie pour l’analyse des réseaux de communication anciens, en s’appuyant fortement sur les approches par calcul algorithmique (simulation des parcours, modélisation de la perméabilité environnementale au mouvement).
-- constituer un réseau de chercheurs autour du thème de la mobilité dans les sociétés anciennes et obtenir des résultats originaux grâce à cette recherche collaborative.
+- développer **une méthodologie pour l’analyse des réseaux de communication anciens**, en s’appuyant fortement sur les approches par calcul algorithmique (simulation des parcours, modélisation de la perméabilité environnementale au mouvement).
+- constituer **un réseau de chercheurs autour du thème de la mobilité dans les sociétés anciennes** et obtenir des résultats originaux grâce à cette recherche collaborative.
 - augmenter la visibilité de ces recherches afin d’être en position de concourir pour un projet à l’échelle européenne (financé par l’ERC par exemple).
 
 Références 
