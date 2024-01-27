@@ -4,6 +4,9 @@ published: true
 title: 'Paths and Pathways to Iron Age Europe '
 subtitle: POTEUS / PHC project on digital modelling of prehistoric mobility
 ---
+![2024-01-chemins-slo.jpg]({{site.baseurl}}/figures/2024-01-chemins-slo.jpg)
+*Modélisation d'un réseau théorique des chemins, Slovénie
+
 La 2024 s'annonce bien, le projet qu'on a proposé avec les collegues slovènes et français a reçu feu vert. Financé par le ministère de l'Europe et des Affaires étrangers, d'une part, et le ministère de l'Enseignement supérieur, de la Science et de l'Innovation du côté slovène, le programme Poteus est dédié aux developpement de nouveau reseaux collaboratifs scientifiques ([https://www.campusfrance.org/fr/proteus](https://www.campusfrance.org/fr/proteus)). La suite du billet est reprise de la proposition :
 
 ## Paths&Pathways Project
