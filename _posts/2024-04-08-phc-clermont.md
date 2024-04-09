@@ -7,7 +7,7 @@ This two day workshop-cum-seminar will enable participants to explore and learn 
 
 ![2024-04-proteus-cfd.png](/figures/2024-04-proteus-cfd.png)
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0866110324859624%2C45.76974009122568%2C3.0901515483856206%2C45.77142018603985&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/45.77058/3.08838">Afficher une carte plus grande</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0840843915939335%2C45.76844724439173%2C3.0930429697036748%2C45.771807461297165&amp;layer=mapnik&amp;marker=45.77012737814899%2C3.0885636806488037" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.77013&amp;mlon=3.08856#map=18/45.77013/3.08856">Show larger map.</a></small>
 
 ## Workshop (June 18th, 9h30 - 12h30) 
 
