@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 'Tue Apr 09 2024 02:00:00 GMT+0200 (heure d’été d’Europe centrale)'
+date: 2024-04-09
 title: Paths&Pathways - Clermont-Ferrand workshop
-published: false
 ---
 This two day workshop-cum-seminar will enable participants to explore and learn on digital approaches in landscape archaeology, with a specific focus on mobility analysis. 
 
