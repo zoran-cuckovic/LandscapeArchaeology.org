@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2024-04-09
+date: 'Tue Apr 09 2024 02:00:00 GMT+0200 (heure d’été d’Europe centrale)'
 title: Paths&Pathways - Clermont-Ferrand workshop
+published: false
 ---
 This two day workshop-cum-seminar will enable participants to explore and learn on digital approaches in landscape archaeology, with a specific focus on mobility analysis. 
 
@@ -19,7 +20,7 @@ Prerequisites: Familiarity with GIS (data management, undestanding the principle
 
 Inscription : send me a message / envoyer moi un message via le formularie sur la page "About".
 
-![ FR ](/img/fr_flag.png) ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment.  
+<img src=/img/fr_flag.png alt="FR"> ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment.  
 
 ## Lecture talk (June 18th, 17h30 - 18h30) 
 
@@ -45,6 +46,3 @@ Programme: to be announced
 - remote sensing techniques applied in archaeology (lidar, thermal imagery)
 - spatial analysis of prehistoric settlements
 - ... and more }
-
-
-
