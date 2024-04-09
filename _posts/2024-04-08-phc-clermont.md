@@ -19,8 +19,7 @@ Prerequisites: Familiarity with GIS (data management, undestanding the principle
 
 Inscription : send me a message / envoyer moi un message via le formularie sur la page "About".
 
-FR &#U+1F1EBU+1F1F7 ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment.  
-[https://outils-javascript.aliasdmc.fr/encodage-caracteres-drapeau/encode-caractere-1F1EB_1F1F7-html-css-js-autre.html#:~:text=Codes%3A%20%F0%9F%87%AB%F0%9F%87%B7%20U%2B1F1EBU%2B1F1F7&text=Vous%20trouverez%20ci%2Ddessous%2C%20la,l'insertion%20dans%20une%20Url.]
+&#127467 &#127479 ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment.  
 
 ## Lecture talk (June 18th, 17h30 - 18h30) 
 
