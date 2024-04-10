@@ -9,7 +9,7 @@ This two day workshop and seminar will enable participants to explore and learn 
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0840843915939335%2C45.76844724439173%2C3.0930429697036748%2C45.771807461297165&amp;layer=mapnik&amp;marker=45.77012737814899%2C3.0885636806488037" style="border: 1px solid black"></iframe><br/><small>MSH Clermont-Ferrand <a href="https://www.openstreetmap.org/?mlat=45.77013&amp;mlon=3.08856#map=18/45.77013/3.08856">(show larger map).</a></small>
 
-## Seminar (June 18th, 9h30 - 12h30)
+## Seminar (June 18th, 9h - 13h)
 
 Location: MSH Clermont-Ferrand, salle 332
 
@@ -22,7 +22,7 @@ We will have :
 - Zoran Čučković (University Clermont Auvergne): New approaches to movement analysis: from paths to total mobility fields
  ... and some more to come ! 
  
-## Lecture talk (June 18th, 17h30 - 18h30) 
+## Lecture talk (June 18th, 18h - 19h) 
 
 Location: MSH Clermont-Ferrand, amphithéatre 219
 
@@ -35,7 +35,7 @@ Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely k
 ![Vače situla](https://www.nms.si/en/imagelib/source/default/Zbirka/Znameniti-predmeti/07situla/Plasc-situle.jpg)
 
 
- ## Workshop (June 18th, 9h30 - 12h30) 
+ ## Workshop (June 18th, 9h - 12h30) 
 
 Location: MSH Clermont-Ferrand, salle informatique 26
 
