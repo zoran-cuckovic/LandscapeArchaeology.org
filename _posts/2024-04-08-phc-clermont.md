@@ -20,7 +20,7 @@ We will have :
 - Nejc Dolinar (National Museum of Slovenia): The Ulaka archaeological complex (SW Slovenia) according to ALS data analysis: an attempt on stratification of archaeological features
 - Elise Fovet  (CNRS - French National Research Institute): Roman roads of the Auvergne region: remote sensing and digtal modelling 
 - Zoran Čučković (University Clermont Auvergne): New approaches to movement analysis: from paths to total mobility fields
- ... and more to come! 
+- ... and more to come! 
  
 ## Lecture talk (June 18th, 18h - 19h) 
 
