@@ -3,11 +3,11 @@ layout: post
 date: 2024-04-09
 title: Paths&Pathways - Clermont-Ferrand workshop
 ---
-This two day workshop-cum-seminar will enable participants to explore and learn on digital approaches in landscape archaeology, with a specific focus on mobility analysis. 
+This two day workshop and seminar will enable participants to explore and learn on digital approaches in landscape archaeology, with a specific focus on mobility analysis. 
 
 ![2024-04-proteus-cfd.png](/figures/2024-04-proteus-cfd.png)
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0840843915939335%2C45.76844724439173%2C3.0930429697036748%2C45.771807461297165&amp;layer=mapnik&amp;marker=45.77012737814899%2C3.0885636806488037" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.77013&amp;mlon=3.08856#map=18/45.77013/3.08856">Show larger map.</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0840843915939335%2C45.76844724439173%2C3.0930429697036748%2C45.771807461297165&amp;layer=mapnik&amp;marker=45.77012737814899%2C3.0885636806488037" style="border: 1px solid black"></iframe><br/><small>MSH Clermont-Ferrand <a href="https://www.openstreetmap.org/?mlat=45.77013&amp;mlon=3.08856#map=18/45.77013/3.08856">(show larger map).</a></small>
 
 ## Workshop (June 18th, 9h30 - 12h30) 
 
@@ -19,7 +19,7 @@ Prerequisites: Familiarity with GIS (data management, undestanding the principle
 
 Inscription : send me a message / envoyer moi un message via le formularie sur la page "About".
 
-<img src=/img/fr_flag.png alt="FR"> ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment.  
+<img src="https://landscapearchaeology.org/img/fr_flag.png" alt="FR"> ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment.  
 
 ## Lecture talk (June 18th, 17h30 - 18h30) 
 
@@ -41,7 +41,8 @@ Location: MSH Clermont-Ferrand, salle 332
 Programme: to be announced
 
 { we will have : 
-- optimal path modelling in theory and practice
-- remote sensing techniques applied in archaeology (lidar, thermal imagery)
-- spatial analysis of prehistoric settlements
-- ... and more }
+Matic Zupan (National Museum of Slovenia / University of Ljubljana): Exploring the Iron Age landscape in Central Slovenia through GIS and Spatial Analysis;
+Nejc Dolinar (National Museum of Slovenia): The Ulaka archaeological complex (SW Slovenia) according to ALS data analysis: an attempt on stratification of archaeological features
+Elise Fovet  (CNRS - French National Research Institute): Roman roads of the Auvergne region: remote sensing and digtal modelling 
+Zoran Čučković (University Clermont Auvergne): New approaches to movement analysis: from paths to total mobility fields
+ ... and more to come }
