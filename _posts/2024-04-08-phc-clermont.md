@@ -35,7 +35,7 @@ Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely k
 ![Vače situla](https://www.nms.si/en/imagelib/source/default/Zbirka/Znameniti-predmeti/07situla/Plasc-situle.jpg)
 *Situla from Vače, Slovenia (5th c. BC).*
 
- ## Workshop (June 18th, 9h - 12h30) 
+## Workshop (June 18th, 9h - 12h30) 
 
 Location: MSH Clermont-Ferrand, salle informatique 26
 
