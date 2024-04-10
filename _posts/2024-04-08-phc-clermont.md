@@ -33,7 +33,7 @@ by **Boštjan Laharnar**, Head of archaeological departmenet, National Museum of
 Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely known for its "art of situlae". Located at the crossroads between the Mediterranean and the Continental Europe, the area of today Slovenia has seen the emergence of hierarchical societites which developped a peculiar lifestyle, borrowing from local and mediteranean traditions. 
 
 ![Vače situla](https://www.nms.si/en/imagelib/source/default/Zbirka/Znameniti-predmeti/07situla/Plasc-situle.jpg)
-
+*Situla from Vače, Slovenia (5th c. BC).*
 
  ## Workshop (June 18th, 9h - 12h30) 
 
