@@ -43,7 +43,7 @@ Topic: This practical workshop will allow participants to learn about **GIS mobi
 
 Prerequisites: Familiarity with GIS (data management, undestanding the principle of vector and raster layers). We will use the **QGIS** software.
 
-Inscription : send me a message / envoyer moi un message via le formularie sur la page "About".
+Inscription : send me a message / envoyer moi un message via le formularie sur la page ["About"](/about/).
 
 ![=FR=](/img/fr_flag.png) ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment.  
 
