@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2024-04-09
+date: 'Tue Apr 09 2024 02:00:00 GMT+0200 (heure d’été d’Europe centrale)'
 title: Paths & Pathways - Clermont-Ferrand workshop
+published: true
 ---
 This two day workshop and seminar will enable participants to explore and learn on digital approaches in landscape archaeology, with a specific focus on mobility analysis. 
 
@@ -16,6 +17,7 @@ Programme: to be announced shortly
 We will have : 
 - Matic Zupan (National Museum of Slovenia / University of Ljubljana): Exploring the Iron Age landscape in Central Slovenia through GIS and Spatial Analysis;
 - Nejc Dolinar (National Museum of Slovenia): The Ulaka archaeological complex (SW Slovenia) according to ALS data analysis: an attempt on stratification of archaeological features
+- Maxime Calbirs (University Clermont Auvergne) : How can Roman roads be rediscovered in mid-mountain areas? Result of path modelling in the Cantal.
 - Elise Fovet  (CNRS - French National Research Institute): Roman roads of the Auvergne region: remote sensing and digtal modelling 
 - Zoran Čučković (University Clermont Auvergne): New approaches to movement analysis: from paths to total mobility fields
 - ... and more to come! 
@@ -33,7 +35,7 @@ Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely k
 ![Vače situla](https://www.nms.si/en/imagelib/source/default/Zbirka/Znameniti-predmeti/07situla/Plasc-situle.jpg)
 *Situla from Vače, Slovenia (5th c. BC).*
 
-## Workshop (June 18th, 9h - 12h30) 
+## Workshop (June 19th, 9h - 12h30) 
 
 Location: MSH Clermont-Ferrand, salle informatique 26
 
@@ -47,4 +49,3 @@ Inscription : send me a message / envoyer moi un message via le formularie sur l
 
 ## Location
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.0840843915939335%2C45.76844724439173%2C3.0930429697036748%2C45.771807461297165&amp;layer=mapnik&amp;marker=45.77012737814899%2C3.0885636806488037" style="border: 1px solid black"></iframe><br/><small>MSH Clermont-Ferrand <a href="https://www.openstreetmap.org/?mlat=45.77013&amp;mlon=3.08856#map=18/45.77013/3.08856">(show larger map).</a></small>
-
