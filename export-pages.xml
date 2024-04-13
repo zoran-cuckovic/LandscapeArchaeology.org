@@ -11,11 +11,10 @@ layout: null
 
     {% for page in site.pages %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <title>{{ page.title | xml_escape }}</title>
+        <description>{{ page.content | xml_escape }}</description>
+        <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
         
       </item>
     {% endfor %}
