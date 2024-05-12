@@ -17,7 +17,7 @@ Programme: to be announced shortly
 We will have : 
 - Matic Zupan (National Museum of Slovenia and University of Ljubljana): Exploring the Iron Age landscape in Central Slovenia through GIS and Spatial Analysis;
 - Nejc Dolinar (National Museum of Slovenia): The Ulaka archaeological complex (SW Slovenia) according to ALS data analysis: an attempt on stratification of archaeological features
-- Maxime Calbirs (University of Tours, laboratoire CITERES - UMR 7324 ; Équipe LAT) : How can Roman roads be rediscovered in mid-mountain areas? Result of path modelling in the Cantal.
+- Maxime Calbris (University of Tours, laboratoire CITERES - UMR 7324 ; Équipe LAT) : How can Roman roads be rediscovered in mid-mountain areas? Result of path modelling in the Cantal.
 - Elise Fovet  (University Clermont Auvergne and CNRS - French National Research Institute): Roman roads of the Auvergne region: remote sensing and digtal modelling 
 - Zoran Čučković (University Clermont Auvergne, Laboratoire CHEC): New approaches to movement analysis: from paths to total mobility fields
 - ... and more to come! 
