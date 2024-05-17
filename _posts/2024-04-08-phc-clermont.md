@@ -19,8 +19,8 @@ We will have :
 - Nejc Dolinar (National Museum of Slovenia): The Ulaka archaeological complex (SW Slovenia) according to ALS data analysis: an attempt on stratification of archaeological features
 - Maxime Calbris (University of Tours, laboratoire CITERES - UMR 7324 ; Équipe LAT) : How can Roman roads be rediscovered in mid-mountain areas? Result of path modelling in the Cantal.
 - Elise Fovet and Marion Dacko  (University Clermont Auvergne and CNRS - French National Research Institute): How can Roman roads be discovered in mid-mountain areas? Combining remote sensing, digital modelling and excavations. 
-- Zoran Čučković (University Clermont Auvergne, Laboratoire CHEC): New approaches to movement analysis: from paths to total mobility fields
-- ... and more to come! 
+- Zoran Čučković (University Clermont Auvergne, Laboratory CHEC): New approaches to movement analysis: from paths to total mobility fields
+- Mélanie Le Couédic (University of Pau and the Adour Region, Laboratory ITEM): In search of herding paths: pastoral mobility in the Pyrenees.
  
 ## Lecture talk (June 18th, 18h - 19h) 
 
