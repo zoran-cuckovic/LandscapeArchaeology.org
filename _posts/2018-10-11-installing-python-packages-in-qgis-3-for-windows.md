@@ -17,12 +17,13 @@ Python is in the heart of QGIS (or in the guts if you prefer), which enables us 
 
 This is how to proceed in QGIS 3.x in Windows (I work on Win. 7)
 1. Open OSGeo4W shell (packed with QGIS in the start menu)
-2. Type ```py3_env```. This should print paths of your QGIS Python installation. [May not be neccessary for newer installations]
-3. Use Python's ```pip``` to install the library of your choice: ```python -m pip install {your library}```
+1b. [older versions only]  Type ```py3_env```. This should print paths of your QGIS Python installation. 
+2. Use Python's ```pip``` to install the library of your choice: ```python -m pip install my-crazy-library```
 
 [![](/wp/wp-content/uploads/2018/10/Capture.png)](/wp/wp-content/uploads/2018/10/Capture.png)
 
-Remark: I don't need to open the shell as administrator -- but this could solve some problems if the program starts complaining about permissions.
+Remark 1: I don't need to open the shell as administrator -- but this could solve some problems if the program starts complaining about permissions, or if you are not the only user. 
+Remark 2: Large packages may _break interent connection_. In order to prevent this, you can force the routine to wait longer using ```--default-timeout=1000``` flag. This would give : ```python -m pip --default-timeout=1000 install my-crazy-library```
 
 **Option 2**
 
