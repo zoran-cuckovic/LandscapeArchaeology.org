@@ -23,6 +23,7 @@ This is how to proceed in QGIS 3.x in Windows (I work on Win. 7)
 [![](/wp/wp-content/uploads/2018/10/Capture.png)](/wp/wp-content/uploads/2018/10/Capture.png)
 
 Remark 1: I don't need to open the shell as administrator -- but this could solve some problems if the program starts complaining about permissions, or if you are not the only user. 
+
 Remark 2: Large packages may _break interent connection_. In order to prevent this, you can force the routine to wait longer using ```--default-timeout=1000``` flag. This would give : ```python -m pip --default-timeout=1000 install my-crazy-library```
 
 **Option 2**
