@@ -37,7 +37,7 @@ Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely k
 
 ## Workshop (June 19th, 9h - 12h30) 
 
-Location: MSH Clermont-Ferrand, salle informatique 26
+Location: University Clermont Auvergne, building Gergovia, salle informatique 319.
 
 Topic: This practical workshop will allow participants to learn about **GIS mobility modeling** (calculation of the optimal path, surface-time, etc.), as well as **visibility analysis** (landscape impact of structures, intervisibility networks, etc.). We will discuss these approaches through practical case studies, based on archaeological data.
 
