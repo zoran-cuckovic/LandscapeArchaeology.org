@@ -19,19 +19,19 @@ Program:
 9h00 – 10h30
 * Introduction (Zoran Čučković)
 
-* Nejc Dolinar (National Museum of Slovenia): **The** **Ulaka** archaeological complex (SW Slovenia) according to ALS data analysis: an attempt on stratification of archaeological features.
+* Nejc Dolinar (National Museum of Slovenia): **The Ulaka archaeological complex (SW Slovenia) according to ALS data analysis: an attempt on stratification of archaeological features**.
 
-* Maxime Calbris (University of Tours – Laboratory CITERES \[UMR 7324, équipe LAT\]): How can Roman roads be rediscovered in mid-mountain areas? Result of path modelling in the Cantal.
+* Maxime Calbris (University of Tours – Laboratory CITERES \[UMR 7324, équipe LAT\]): **How can Roman roads be rediscovered in mid-mountain areas? Result of path modelling in the Cantal**.
 
-* Elise Fovet and Marion Dacko (University Clermont Auvergne – MSH): How can Roman roads be discovered in mid-mountain areas? Combining remote sensing, digital modelling and **excavations.**
+* Elise Fovet and Marion Dacko (University Clermont Auvergne – MSH): **How can Roman roads be discovered in mid-mountain areas? Combining remote sensing, digital modelling and excavations.**
 
 11h00 – 12h30
 
-* Matic Zupan (National Museum of Slovenia and University of Ljubljana): Exploring the Iron Age landscape in Central Slovenia through GIS and spatial analysis.
+* Matic Zupan (National Museum of Slovenia and University of Ljubljana): **Exploring the Iron Age landscape in Central Slovenia through GIS and spatial analysis**.
 
 * Mélanie Le Couédic (University of Pau and the Adour Region – Laboratory ITEM) : **In search of herding paths: pastoral mobility in the Pyrenees.**
 
-* Zoran Čučković (University Clermont Auvergne – Laboratory CHEC): New approaches to movement analysis: from paths to total mobility fields.
+* Zoran Čučković (University Clermont Auvergne – Laboratory CHEC): **New approaches to movement analysis: from paths to total mobility fields**.
  
 ## Lecture talk (June 18th, 18h - 19h) 
 
