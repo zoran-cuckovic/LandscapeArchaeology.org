@@ -46,7 +46,7 @@ Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely k
 ![2024-04-proteus](/figures/2024-05-conference.jpg)
 
 ![Vače situla](https://www.nms.si/en/imagelib/source/default/Zbirka/Znameniti-predmeti/07situla/Plasc-situle.jpg)
-*Situla from Vače, Slovenia (5th c. BC).*
+*Read about the Vače situla, shown on the poster, at [the Slovenian Nat. Museum website](https://www.nms.si/en/collections/highlights/420-Vace-Situla).*
 
 ## Workshop (June 19th, 9h - 12h30) 
 
