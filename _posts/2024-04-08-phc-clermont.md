@@ -12,7 +12,7 @@ This two day workshop and seminar will enable participants to explore and learn 
 
 Location: MSH Clermont-Ferrand, salle 220
 
-![2024-04-proteus](/figures/2024-05-seminaire.jpg)
+![2024-04-proteus](/figures/2024-05-seminaire.JPG)
 
 Program: 
 
@@ -43,7 +43,7 @@ by **Boštjan Laharnar**, Head of archaeological departmenet, National Museum of
 
 Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely known for its "art of situlae". Located at the crossroads between the Mediterranean and the Continental Europe, the area of today Slovenia has seen the emergence of hierarchical societites which developped a peculiar lifestyle, borrowing from local and mediteranean traditions. 
 
-![2024-04-proteus](/figures/2024-05-conference.jpg)
+![2024-04-proteus](/figures/2024-05-conference.JPG)
 
 *Read about the Vače situla, shown on the poster, at [the Slovenian Nat. Museum website](https://www.nms.si/en/collections/highlights/420-Vace-Situla).*
 
