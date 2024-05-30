@@ -10,7 +10,7 @@ This two day workshop and seminar will enable participants to explore and learn 
 
 ## Seminar (June 18th, 9h - 13h)
 
-Location: MSH Clermont-Ferrand, salle 332
+Location: MSH Clermont-Ferrand, salle 220
 
 ![2024-04-proteus](/figures/2024-05-seminaire.jpg)
 
@@ -35,7 +35,7 @@ Program:
  
 ## Lecture talk (June 18th, 18h - 19h) 
 
-Location: MSH Clermont-Ferrand, amphithéatre 219
+Location: MSH Clermont-Ferrand, salle 220
 
 by **Boštjan Laharnar**, Head of archaeological departmenet, National Museum of Slovenia
 
