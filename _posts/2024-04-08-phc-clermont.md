@@ -60,7 +60,7 @@ Inscription : send me a message / envoyer moi un message via le formularie sur l
 ![=FR=](/img/fr_flag.png) ...c'est vraiment en anglais ? Eh oui, mais les organisateurs sont tout à fait disponibles pour des traductions/eclaircissements à tout moment. 
 
 ![2024-05-flow.jpeg]({{site.baseurl}}/figures/2024-05-flow.jpeg)
-*Origins od workshop participants.*
+*Origin of workshop participants.*
 
 ## Location
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_1073256?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_1073256?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
