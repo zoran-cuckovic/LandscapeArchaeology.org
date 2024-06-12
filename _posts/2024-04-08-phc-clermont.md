@@ -8,7 +8,7 @@ This two day workshop and seminar will enable participants to explore and learn 
 
 ![2024-04-proteus-cfd.png](/figures/2024-04-proteus-cfd.png)
 
-## Seminar (June 18th, 9h - 13h)
+## Seminar (June 18th, 9h00 - 12h30)
 
 Location: MSH Clermont-Ferrand, salle 220
 
@@ -33,7 +33,7 @@ Program:
 
 * Zoran Čučković (University Clermont Auvergne – Laboratory CHEC): **New approaches to movement analysis: from paths to total mobility fields**.
  
-## Lecture talk (June 18th, 18h - 19h) 
+## Lecture talk (June 18th, 18h00 - 19h00) 
 
 Location: MSH Clermont-Ferrand, salle 220
 
@@ -47,7 +47,7 @@ Boštjan Laharnar will present us the splendours of Slovenian Iron Age, widely k
 
 *Read about the Vače situla, shown on the poster, at [the Slovenian Nat. Museum website](https://www.nms.si/en/collections/highlights/420-Vace-Situla).*
 
-## Workshop (June 19th, 9h - 12h30) 
+## Workshop (June 19th, 9h00 - 12h30) 
 
 Location: University Clermont Auvergne, building Gergovia, salle informatique 319.
 
