@@ -33,6 +33,7 @@ include:
 navbar-links:
   # Books: "books"
   Content: "tags"
+  Workshop: "https://drive.uca.fr/d/1eade90de75f4e52b816/"
   Cours SIG: "https://drive.uca.fr/d/c1c50fa5c5db4b849fc2/"
   QGIS projects:
     - QGIS visibility analysis: "qgis-visibility-analysis"
