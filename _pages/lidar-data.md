@@ -45,6 +45,8 @@ NB. Free registration is needed. You can also find other coll stuff at *datafors
 [https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#rge-alti-1m](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#rge-alti-1m) DEM 1m, DEM 5m. 
 
  - quality is very variable, LiDAR was used for flood risk areas, coast and forrest areas : [https://geoservices.ign.fr/ressources_documentaires/Espace_documentaire/MODELES_3D/RGE_ALTI/IGNF_RGEALTIr_2-0.html](https://geoservices.ign.fr/ressources_documentaires/Espace_documentaire/MODELES_3D/RGE_ALTI/IGNF_RGEALTIr_2-0.html).
+ - as of writing, a country wide lidar survey is underway, with classified data already available :
+ [https://geoservices.ign.fr/lidarhd#telechargementclassifiees](https://geoservices.ign.fr/lidarhd#telechargementclassifiees)
 
 ### Auvergne - Rhône - Alpes region
 [opendata.auvergnerhonealpes.eu](http://opendata.auvergnerhonealpes.eu/dataset/7-les-donnees.htm?from=0&q=lidar): patchy, small scale lidar surveys of various resolutions.
